@@ -1,4 +1,4 @@
-module github.com/projectdiscovery/wappalyzergo
+module github.com/dragstor/wappalyzergo
 
 go 1.16
 
