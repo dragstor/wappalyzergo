@@ -14056,6 +14056,14 @@
             "description": "LoginRadius is a cloud based SaaS Customer Identity Access Management platform based in Canada.",
             "website": "https://www.loginradius.com"
         },
+        "Loglib": {
+            "js": [
+                "llc",
+                "lli"
+            ],
+            "description": "Loglib is a Open Source and Privacy-First web analytics that aims to provide simple yet can be powerful based on your needs.",
+            "website": "https://www.loglib.io"
+        },
         "LogoiX": {
             "description": "LogoiX is a German shipping company.",
             "website": "https://www.logoix.com"
@@ -17812,6 +17820,13 @@
             ],
             "description": "Paloma helps ecommerce businesses sell directly to customers in messaging channels, with automated personal shopping conversations.",
             "website": "https://www.getpaloma.com"
+        },
+        "Panda CSS": {
+            "css": [
+                "--made-with-panda"
+            ],
+            "description": "Panda is a styling engine that generates styling primitives to author atomic CSS and recipes in a type-safe and readable manner.",
+            "website": "https://panda-css.com/"
         },
         "Panelbear": {
             "js": [
