@@ -8561,6 +8561,10 @@
             "description": "Fit Analytics is a platform that provides clothing size recommendations for online customers by measuring individual dimensions via webcams.",
             "website": "https://www.fitanalytics.com"
         },
+        "FitVids.JS": {
+            "description": "jQuery plugin for fluid width video embeds",
+            "website": "https://fitvidsjs.com/"
+        },
         "FlagSmith": {
             "js": [
                 "flagsmith"
@@ -15798,6 +15802,10 @@
             },
             "website": "https://movabletype.org"
         },
+        "Moxie": {
+            "description": "Pollyfills for XHR2 and File API",
+            "website": "https://github.com/moxiecode/moxie"
+        },
         "Mozard Suite": {
             "meta": {
                 "author": [
@@ -18689,6 +18697,10 @@
             ],
             "description": "Plug\u0026Pay is a payment processor that provides payment solutions for ecommerce businesses.",
             "website": "https://plugandpay.nl"
+        },
+        "Plupload": {
+            "description": "Plupload is JavaScript API for building file uploaders.",
+            "website": "https://www.plupload.com/"
         },
         "Plyr": {
             "js": [
@@ -30762,6 +30774,10 @@
         "snigel AdEngine": {
             "description": "snigel AdEngine is a header bidding solution product from snigel.",
             "website": "https://www.snigel.com/adengine/"
+        },
+        "spin.js": {
+            "description": "Configurable JavaScript/CSS spinner that can be used as a resolution-independent loading indicator",
+            "website": "https://spin.js.org/"
         },
         "stores.jp": {
             "js": [
