@@ -17434,6 +17434,10 @@
             "description": "Orankl is a provider email marketing and review services.",
             "website": "https://www.orankl.com"
         },
+        "Orbit Slider": {
+            "description": "Orbit is a jQuery slider.",
+            "website": "https://zurb.com/playground/orbit-jquery-image-slider"
+        },
         "OrbitFox": {
             "description": "OrbitFox is a multi-featured WordPress plugin that works with the Elementor, Beaver Builder and Gutenberg site-building utilities by Themeisle.",
             "website": "https://themeisle.com/plugins/orbit-fox-companion"
