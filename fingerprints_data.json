@@ -4757,6 +4757,10 @@
             "description": "Chorus is the only all-in-one publishing, audience, and revenue platform built for modern media companies.",
             "website": "https://getchorus.voxmedia.com"
         },
+        "Chosen": {
+            "description": "Chosen is a jQuery plugin that makes long, unwieldy select boxes much more user-friendly.",
+            "website": "https://harvesthq.github.io/chosen/"
+        },
         "Chronofresh": {
             "description": "Chronofresh is an express transport service for food products.",
             "website": "https://www.chronofresh.fr"
@@ -10837,6 +10841,10 @@
         "Headless UI": {
             "description": "Headless UI is an unstyled component library for either React.js or Vue.js from the same people that created Tailwind CSS.",
             "website": "https://headlessui.dev"
+        },
+        "Headroom.js": {
+            "description": "Headroom.js is a JS widget that allows you to react to the user's scroll. The header slides out of view when scrolling down and slides back in when scrolling up.",
+            "website": "https://wicky.nillia.ms/headroom.js/"
         },
         "Heap": {
             "js": [
@@ -27247,6 +27255,10 @@
             ],
             "description": "WHMCS is an automation platform that simplifies and automates all aspects of operating an online web hosting and domain registrar business.",
             "website": "https://www.whmcs.com"
+        },
+        "WOW": {
+            "description": "Reveal CSS animation as you scroll down a page.",
+            "website": "https://www.delac.io/WOW"
         },
         "WP Automatic": {
             "description": "WP Automatic is a WordPress plugin that automates the process of creating posts on your WordPress site by automatically fetching content from various sources like RSS feeds, Amazon, eBay, ClickBank, and more.",
