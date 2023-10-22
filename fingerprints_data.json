@@ -4039,6 +4039,10 @@
             "description": "C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system.",
             "website": "https://www.open-std.org/jtc1/sc22/wg14/"
         },
+        "C3.js": {
+            "description": "D3 based reusable chart library",
+            "website": "https://c3js.org/"
+        },
         "CCV Shop": {
             "website": "https://ccvshop.be"
         },
@@ -15767,6 +15771,14 @@
             "description": "Mopinion is an all-in-one user feedback platform that helps digital enterprises listen, understand, and act across all digital touchpoints.",
             "website": "https://mopinion.com"
         },
+        "Morphext": {
+            "description": "A simple, high-performance and cross-browser jQuery rotating / carousel plugin for text phrases powered by Animate.css.",
+            "website": "https://morphext.fyianlai.com/"
+        },
+        "Morris.js": {
+            "description": "A JavaScript library that simplifies the process of creating interactive and responsive data visualizations on the web.",
+            "website": "https://morrisjs.github.io/morris.js/"
+        },
         "Moshimo": {
             "description": "Moshimo is a free affiliate service for individuals.",
             "website": "https://af.moshimo.com"
@@ -23985,6 +23997,10 @@
             "description": "SteelHouse is an advertising software company which provides services for brands, agencies, and direct marketers.",
             "website": "https://steelhouse.com"
         },
+        "Stellar.js": {
+            "description": "Stellar.js is a JavaScript library and jQuery plugin specifically designed to deliver parallax scrolling effects for web pages.",
+            "website": "https://markdalgleish.com/projects/stellar.js/"
+        },
         "Stencil": {
             "js": [
                 "stencil.inspect"
@@ -24215,6 +24231,10 @@
             },
             "description": "Sucuri is a cybersecurity company that provides website security solutions and services.",
             "website": "https://sucuri.net/"
+        },
+        "SugarJS": {
+            "description": "SugarJS is a JavaScript library that simplifies working with native JavaScript objects, enhancing productivity and code readability.",
+            "website": "https://sugarjs.com/"
         },
         "Suiteshare": {
             "description": "Suiteshare powers conversational shopping experiences.",
@@ -29443,6 +29463,10 @@
             },
             "description": "bdok is a cloud-based platform which provides the capability to create and manage online stores with no technical knowledge.",
             "website": "https://bdok.ir"
+        },
+        "bxSlider": {
+            "description": "Add a respsonsive image slider to any website.",
+            "website": "https://bxslider.com/"
         },
         "cPanel": {
             "cookies": {
