@@ -1791,6 +1791,10 @@
             "description": "AnyClip is a video engagement platform that uses an AI-driven content analysis engine to analyze and categorize video content in real-time to create personalised video feeds.",
             "website": "https://www.anyclip.com"
         },
+        "AnythingSlider": {
+            "description": "A robust jQuery-based slider plugin.",
+            "website": "https://css-tricks.com/anythingslider-jquery-plugin/"
+        },
         "Apache APISIX": {
             "headers": {
                 "server": "^apisix(?:/([\\d\\.]+))?$\\;version:\\1",
@@ -2724,6 +2728,10 @@
             ],
             "description": "Backdrop is an open-source content management system (CMS) derived from Drupal 7, offering a user-friendly interface, customisable content types, taxonomies, views, theming capabilities, extensibility through modules, and regular security updates.",
             "website": "https://backdropcms.org"
+        },
+        "Backstretch": {
+            "description": "A simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element.",
+            "website": "https://www.jquery-backstretch.com/"
         },
         "Baidu Analytics (百度统计)": {
             "description": "Baidu Analytics (百度统计) is a free tool for tracking and reporting traffic data of users visiting your site.",
@@ -7787,6 +7795,10 @@
             ],
             "description": "Enlistly tracks referral orders in realtime. Orders that are partially refunded, refunded, or cancelled update on the fly.",
             "website": "https://enlistly.com"
+        },
+        "Enquire.js": {
+            "description": "enquire.js is a lightweight, pure JavaScript library for responding to CSS media queries.",
+            "website": "https://wicky.nillia.ms/enquire.js/"
         },
         "Ensi": {
             "headers": {
@@ -17866,6 +17878,10 @@
             ],
             "description": "Panelbear is a simple website performance and traffic analytics tool.",
             "website": "https://panelbear.com"
+        },
+        "Pannellum": {
+            "description": "Pannellum is a lightweight, free, and open source panorama viewer for the web.",
+            "website": "https://pannellum.org/"
         },
         "Pantheon": {
             "headers": {
