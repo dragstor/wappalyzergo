@@ -1674,6 +1674,10 @@
             "description": "Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google.",
             "website": "https://angular.io"
         },
+        "Angular Gridster": {
+            "description": "Gridster is a JavaScript library, with a simple drag-and-drop interface, for creating intuitive, dynamic and customizable layouts in web applications.",
+            "website": "https://tiberiuzuld.github.io/angular-gridster2/"
+        },
         "Angular Material": {
             "js": [
                 "ngmaterial"
@@ -10765,6 +10769,10 @@
             ],
             "description": "Handlebars is a JavaScript library used to create reusable webpage templates.",
             "website": "https://handlebarsjs.com"
+        },
+        "Handsontable": {
+            "description": "A front-end component that combines data grid features with spreadsheet UX/UI. Professional support included.",
+            "website": "https://handsontable.com/"
         },
         "Handtalk": {
             "js": [
@@ -29603,6 +29611,10 @@
             ],
             "website": "https://github.com/deepwn/deepMiner"
         },
+        "dimple": {
+            "description": "dimple.js is a powerful and flexible open-source charting API for d3 letting you quickly and easily create and combine bar, line, area and scatter charts.",
+            "website": "http://dimplejs.org/"
+        },
         "e-Shop Commerce": {
             "description": "e-Shop is a all-in-one Software-as-a-Service (SaaS) that allows Israeli customers to set up an online store and sell their products.",
             "website": "https://www.e-shop.co.il"
@@ -30323,6 +30335,10 @@
         "mobicred": {
             "description": "Mobicred is a credit facility that allows you to safely shop online with our participating retailers.",
             "website": "https://mobicred.co.za/"
+        },
+        "mobile-detect.js": {
+            "description": "Mobile-detect.js is a compact JavaScript library designed to detect devices by comparing patterns against a given User-Agent string.",
+            "website": "https://hgoebl.github.io/mobile-detect.js/doc/MobileDetect.html"
         },
         "mod_auth_pam": {
             "headers": {
