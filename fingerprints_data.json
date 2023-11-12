@@ -1603,6 +1603,10 @@
             "description": "Amplience is an API-first, headless content management platform for enterprise retail.",
             "website": "https://amplience.com"
         },
+        "Amplify JS": {
+            "description": "AmplifyJS is a set of components designed to solve common web application problems with a simplistic API. Amplify's goal is to simplify all forms of data handling by providing a unified API for various data sources.",
+            "website": "https://amplifyjs.com/"
+        },
         "Amplitude": {
             "js": [
                 "__amplitude__",
@@ -3563,6 +3567,10 @@
         "Booster Page Speed Optimizer": {
             "description": "The Page Speed Optimizer is a Shopify app built by BoosterApps.",
             "website": "https://apps.shopify.com/page-speed-optimizer"
+        },
+        "Bootbox.js": {
+            "description": "Bootbox.js is a small JavaScript library which allows you to create custom modal dialogs using Bootstrap modals, without having to worry about creating, managing, or removing any of the required DOM elements or JavaScript event handlers.",
+            "website": "https://bootboxjs.com/"
         },
         "Bootic": {
             "js": [
@@ -17906,6 +17914,10 @@
             "description": "Pantheon is a WebOps (Website Operations) and Management Platform for WordPress and Drupal.",
             "website": "https://pantheon.io/"
         },
+        "Paper.js": {
+            "description": "Paper.js is an open-source, vector graphics scripting framework, which offers a powerful Scene Graph and extensive functionality to create and manipulate graphic items using layers, gradients, blending, and other advanced features",
+            "website": "http://paperjs.org/"
+        },
         "Paradox": {
             "js": [
                 "_applybase",
@@ -29487,6 +29499,10 @@
             },
             "description": "bdok is a cloud-based platform which provides the capability to create and manage online stores with no technical knowledge.",
             "website": "https://bdok.ir"
+        },
+        "bowser": {
+            "description": "A small, fast and rich-API browser/platform/engine detector for both browser and node.",
+            "website": "https://opencollective.com/bowser"
         },
         "bxSlider": {
             "description": "Add a respsonsive image slider to any website.",
