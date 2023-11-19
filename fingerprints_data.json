@@ -8683,6 +8683,10 @@
             "description": "Flickity is a JavaScript slider library, built by David DeSandro of Metafizzy fame.",
             "website": "https://flickity.metafizzy.co"
         },
+        "FlipClock.js": {
+            "description": "FlipClock.js is a JavaScript library, offering a modern twist to displaying time and countdowns on web applications.",
+            "website": "https://flipclock.readthedocs.io/en/dev-1.0.0/CHANGE%20LOG/"
+        },
         "FlippingBook": {
             "js": [
                 "__flippingbook_csrf__"
@@ -14500,6 +14504,10 @@
         "Magixite": {
             "description": "Magixite offers the Web Content Accessibility Guidelines (WCAG), a set of guidelines and requirements designed to help designers and developers improve the accessibility of web content, ensuring it can be effectively used by individuals with disabilities.",
             "website": "https://acc.magixite.com"
+        },
+        "Magnific Popup": {
+            "description": "Magnific Popup is a responsive lightbox \u0026 dialog script with focus on performance and providing best experience for user with any device.",
+            "website": "https://dimsemenov.com/plugins/magnific-popup/"
         },
         "MailChimp": {
             "html": [
@@ -26100,6 +26108,10 @@
             "description": "Typecho is a PHP Blogging Platform.",
             "website": "https://typecho.org/"
         },
+        "Typed.js": {
+            "description": "Typed.js is a library that types. It is designed to create typewriter-style animations with ease.",
+            "website": "https://mattboldt.com/demos/typed-js/"
+        },
         "Typeform": {
             "js": [
                 "tf.createpopover",
@@ -27566,6 +27578,10 @@
             ],
             "description": "Weaver Xtreme is the orginal options-based WordPress theme.",
             "website": "https://weavertheme.com"
+        },
+        "Web Font Loader": {
+            "description": "WebFont Loader is a versatile JavaScript library that provides enhanced control and flexibility in managing web fonts.",
+            "website": "https://github.com/typekit/webfontloader"
         },
         "Web Shop Manager": {
             "js": [
