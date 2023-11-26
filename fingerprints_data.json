@@ -1398,6 +1398,10 @@
             "description": "Amaya is an open-source web browser editor to create and update documents on the web.",
             "website": "https://www.w3.org/Amaya"
         },
+        "Amaze UI": {
+            "description": "Amaze UI is a mobile-first JavaScript library designed to simplify front-end development.",
+            "website": "https://amazeui.shopxo.net/"
+        },
         "Amazon ALB": {
             "cookies": {
                 "awsalb": "",
@@ -14533,6 +14537,10 @@
             ],
             "description": "MailChimp for WordPress is an email marketing plugin that enables you to build subscriber lists.",
             "website": "https://www.mc4wp.com"
+        },
+        "Mailcheck": {
+            "description": "Mailcheck is a JavaScript library designed to address the issue of misspelled email addresses during user input.",
+            "website": "https://github.com/mailcheck/mailcheck"
         },
         "MailerLite": {
             "js": [
@@ -28294,7 +28302,8 @@
             ],
             "headers": {
                 "link": "rel=\"https://api\\.w\\.org/\"",
-                "x-pingback": "/xmlrpc\\.php$"
+                "x-pingback": "/xmlrpc\\.php$",
+                "x-redirect-by": "wordpress"
             },
             "html": [
                 "\u003clink rel=[\"']stylesheet[\"'] [^\u003e]+/wp-(?:content|includes)/",
@@ -30592,6 +30601,14 @@
             ],
             "website": "https://owncloud.org"
         },
+        "p5.js": {
+            "js": [
+                "p5.camera",
+                "p5.colorconversion"
+            ],
+            "description": "p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else.",
+            "website": "https://p5js.org"
+        },
         "papaya CMS": {
             "html": [
                 "\u003clink[^\u003e]*/papaya-themes/"
@@ -31063,6 +31080,10 @@
         "wBuy": {
             "description": "wBuy is a SaaS ecommerce platform.",
             "website": "https://www.wbuy.com.br"
+        },
+        "waitForImages": {
+            "description": "waitForImages is a lightweight, high-performance JavaScript library that simplifies the handling of image preloading events.",
+            "website": "https://github.com/alexanderdickson/waitForImages"
         },
         "wap.store": {
             "js": [
