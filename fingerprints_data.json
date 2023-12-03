@@ -24537,6 +24537,10 @@
             "description": "Sympa is an open-source mailing list management (MLM) software.",
             "website": "https://www.sympa.org/"
         },
+        "Syncfusion": {
+            "description": "Syncfusion is a suite of JavaScript libraries crafted for modern web development. It's modular design enables developers to create interactive, and responsive applications, enhancing user experience across various devices and platforms.",
+            "website": "https://www.syncfusion.com/"
+        },
         "Syndeca": {
             "js": [
                 "syndecaanalyticsobject"
