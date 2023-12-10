@@ -20477,6 +20477,10 @@
             "description": "Responsive Lightbox \u0026 Gallery plugin is a lightweight WordPress gallery plugin by Digital Factory.",
             "website": "https://dfactory.eu/products/responsive-lightbox-gallery-extensions/"
         },
+        "Responsive Nav": {
+            "description": "Responsive navigation plugin without library dependencies and with fast touch screen support.",
+            "website": "http://responsive-nav.com/"
+        },
         "ResponsiveVoice": {
             "js": [
                 "responsivevoice.version"
@@ -29586,6 +29590,10 @@
             ],
             "description": "cgit is a web interface (cgi) for Git repositories, written in C. licensed under GPLv2.",
             "website": "https://git.zx2c4.com/cgit"
+        },
+        "chroma.js": {
+            "description": "chroma.js is a small-ish zero-dependency JavaScript library for all kinds of color conversions and color scales.",
+            "website": "https://www.vis4.net/chromajs/"
         },
         "clickio": {
             "description": "Clickio Consent Tool collects and communicates consent both to IAB Framework vendors and to Google Ads products.",
