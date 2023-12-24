@@ -4805,6 +4805,16 @@
             "description": "ChurnZero is a real-time customer success platform that helps subscription businesses fight customer churn.",
             "website": "https://churnzero.net"
         },
+        "Circle": {
+            "cookies": {
+                "_circle_session:": "\\;confidence:50"
+            },
+            "js": [
+                "circleuser"
+            ],
+            "description": "Circie is an all-in-one community platform for businesses that brings together engaging courses, discussions, members, live streams, chat, events, and memberships.",
+            "website": "https://circle.so"
+        },
         "CitrusPay": {
             "description": "CitrusPay provides payement gateway and wallet services.",
             "website": "https://consumers.citruspay.com/"
@@ -5731,6 +5741,14 @@
             "description": "Cookie-Script automatically scans, categorizes and adds description to all cookies found on your website.",
             "website": "https://cookie-script.com"
         },
+        "Cookie Seal": {
+            "js": [
+                "cookieseal",
+                "cookieseal.consentenabled"
+            ],
+            "description": "Cookie Seal is a tool or system that helps you manage and configure the use of cookies on your website in accordance with data protection laws, ensuring compliance with relevant regulations.",
+            "website": "https://cookieseal.com"
+        },
         "CookieFirst": {
             "js": [
                 "cookiefirst_show_settings"
@@ -6569,6 +6587,10 @@
             "description": "Digital River provides global ecommerce, payments and marketing services.",
             "website": "https://www.digitalriver.com"
         },
+        "Digizuite": {
+            "description": "Digizuite is a Digital Asset Management software for enterprises.",
+            "website": "https://www.digizuite.com"
+        },
         "DirectAdmin": {
             "headers": {
                 "server": "directadmin daemon v([\\d.]+)\\;version:\\1"
@@ -6897,6 +6919,19 @@
             ],
             "description": "Doteasy Website Builder is a tool provided by Doteasy, a web hosting company that enables users to create and personalise their own websites without necessitating any technical knowledge or expertise in website design.",
             "website": "https://www.doteasy.com/website-builder/"
+        },
+        "Dotser": {
+            "meta": {
+                "generator": [
+                    "^dotser\\scommerce\\s((?:\\d+\\.)+\\d+)/\\;version:\\1"
+                ]
+            },
+            "implies": [
+                "MySQL",
+                "PHP"
+            ],
+            "description": "Dotser is a web software development company specialising in ecommerce and cloud-based business solutions.",
+            "website": "https://www.dotser.ie"
         },
         "DoubleClick Ad Exchange (AdX)": {
             "description": "DoubleClick Ad Exchange is a real-time marketplace to buy and sell display advertising space.",
@@ -11793,6 +11828,13 @@
             },
             "description": "Incapsula is a cloud-based application delivery platform. It uses a global content delivery network to provide web application security, DDoS mitigation, content caching, application delivery, load balancing and failover services.",
             "website": "https://www.incapsula.com"
+        },
+        "Incident.io": {
+            "headers": {
+                "x-webkit-csp": "incident-io-team\\.vercel\\.app"
+            },
+            "description": "Incident.io is a Slack-integrated incident management tool used to announce, manage, and resolve all incidents in a single channel.",
+            "website": "https://incident.io"
         },
         "Includable": {
             "headers": {
@@ -25154,6 +25196,14 @@
             ],
             "description": "The.com is a low-code website building platform with community-created components that you can share and own.",
             "website": "https://www.the.com"
+        },
+        "Theatre.js": {
+            "js": [
+                "__theatrejs_corebundle",
+                "__theatrejs_corebundle.version"
+            ],
+            "description": "Theatre.js is a javascript animation library with a professional motion design toolset.",
+            "website": "https://www.theatrejs.com"
         },
         "Thefork": {
             "description": "Thefork is a restaurant booking, managing system.",
