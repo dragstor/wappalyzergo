@@ -3614,6 +3614,10 @@
             ],
             "website": "https://bootstrap-table.wenzhixin.net.cn/"
         },
+        "BootstrapCDN": {
+            "description": "BootstrapCDN is a powerful and reliable Content Delivery Network (CDN) that delivers static resources, including CSS, JavaScript, and font files, for the widely-used Bootstrap framework. By leveraging multiple server locations worldwide, BootstrapCDN accelerates website loading times, ensuring a smooth and visually appealing user experience. Additionally, it ensures website compatibility with various devices and browsers. The service reduces bandwidth usage and server load, improving web performance for developers and end-users alike.",
+            "website": "https://www.bootstrapcdn.com/"
+        },
         "Booxi": {
             "js": [
                 "booxi",
@@ -4901,6 +4905,10 @@
             "description": "Classeh is a LMS that allows user to participate in webinars and also use LMS options like messanger,finances,homework,quiz and some extra options like sending messages and more.",
             "website": "https://fanavar.org"
         },
+        "Classnames": {
+            "description": "Javascript utility for conditionally joining classNames together.",
+            "website": "https://jedwatson.github.io/classnames/"
+        },
         "Classy": {
             "js": [
                 "classy.clientid"
@@ -4918,6 +4926,10 @@
         "Clearbit Reveal": {
             "description": "Clearbit Reveal identifies anonymous visitors to websites.",
             "website": "https://clearbit.com/reveal"
+        },
+        "Cleave.js": {
+            "description": "JavaScript library for formatting input text content when you are typing.",
+            "website": "https://nosir.github.io/cleave.js/"
         },
         "Clerk": {
             "js": [
@@ -5286,6 +5298,10 @@
         "CodeSandbox": {
             "description": "CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.",
             "website": "https://codesandbox.io/"
+        },
+        "Coffee Script": {
+            "description": "CoffeeScript is a language that compiles into JavaScript.",
+            "website": "https://coffeescript.org/"
         },
         "Coin Currency Converter": {
             "implies": [
@@ -6523,6 +6539,10 @@
             "description": "Deutsche Post is a German multinational package delivery and supply chain management company in Germany.",
             "website": "https://www.deutschepost.de"
         },
+        "Dexie.js": {
+            "description": "A Minimalistic Wrapper for IndexedDB.",
+            "website": "https://dexie.org"
+        },
         "DiamondCDN": {
             "headers": {
                 "server": "^diamondcdn$"
@@ -7661,6 +7681,13 @@
         "Elfsight": {
             "description": "Elfsight is an all-in-one platform offering 70+ customisable widgets for websites.",
             "website": "https://elfsight.com"
+        },
+        "Elgg": {
+            "js": [
+                "elgg"
+            ],
+            "description": "Elgg is a social networking engine, delivering the building blocks for creating social networks and applications.",
+            "website": "https://elgg.org/"
         },
         "Elixir": {
             "implies": [
@@ -27843,6 +27870,14 @@
             ],
             "description": "WebToffee Stripe Payment Plugin for WooCommerce is a software add-on that allows online retailers using the WooCommerce ecommerce platform to accept payments through the Stripe payment gateway.",
             "website": "https://www.webtoffee.com/product/woocommerce-stripe-payment-gateway/"
+        },
+        "WebWave": {
+            "js": [
+                "webwave.getappversion",
+                "webwavefontsloadedflag"
+            ],
+            "description": "WebWave is a drag and drop website builder.",
+            "website": "https://webwavecms.com"
         },
         "WebZi": {
             "js": [
