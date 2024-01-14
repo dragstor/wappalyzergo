@@ -7707,6 +7707,10 @@
             "description": "ElkArte is an open-source PHP-based forum software with MySQL integration, offering features such as user authentication, topic categorisation, post formatting, private messaging, moderation tools, and customisable themes and extensions.",
             "website": "https://www.elkarte.net"
         },
+        "Elliptic": {
+            "description": "Fast Elliptic Curve Cryptography in plain javascript.",
+            "website": "https://github.com/indutny/elliptic"
+        },
         "Ellucian CRM Recruit": {
             "js": [
                 "ellucian.recruit",
