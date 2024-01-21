@@ -11932,6 +11932,13 @@
             ],
             "website": "https://infernojs.org"
         },
+        "Infinite Scroll": {
+            "js": [
+                "infinitescroll"
+            ],
+            "description": "jQuery plugin for infinite scrolling.",
+            "website": "https://infinite-scroll.com/"
+        },
         "Infogram": {
             "js": [
                 "infogramembeds"
@@ -11994,6 +12001,10 @@
         "Instafeed": {
             "description": "Instafeed is an official Instagram app.",
             "website": "https://apps.shopify.com/instafeed"
+        },
+        "Instafeed.js": {
+            "description": "A way to add Instagram photos to your website.",
+            "website": "https://instafeedjs.com/"
         },
         "Instamojo": {
             "js": [
@@ -30095,6 +30106,10 @@
             "description": "hoolah is Asia's omni-channel buy now pay later platform.",
             "website": "https://www.hoolah.co"
         },
+        "html2canvas": {
+            "description": "Screenshots with JavaScript.",
+            "website": "https://html2canvas.hertzen.com/"
+        },
         "i-MSCP": {
             "meta": {
                 "application-name": [
@@ -30183,6 +30198,10 @@
             ],
             "description": "ikiwiki is a free and open-source wiki application.",
             "website": "https://ikiwiki.info"
+        },
+        "imagesLoaded": {
+            "description": "jQuery plugin for seeing if the images are loaded.",
+            "website": "https://imagesloaded.desandro.com/"
         },
         "imperia CMS": {
             "meta": {
