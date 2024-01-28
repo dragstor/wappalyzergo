@@ -8445,7 +8445,7 @@
                 "vary": "fastly-ssl",
                 "x-fastly-origin": "",
                 "x-fastly-request-id": "",
-                "x-via-fastly:": ""
+                "x-via-fastly": ""
             },
             "description": "Fastly is a cloud computing services provider. Fastly's cloud platform provides a content delivery network, Internet security services, load balancing, and video \u0026 streaming services.",
             "website": "https://www.fastly.com"
@@ -14378,6 +14378,13 @@
             "description": "Luna is a company that sells software that aids eyewear companies sell their products online using virtual fitting.",
             "website": "https://luna.io"
         },
+        "Lunr.js": {
+            "js": [
+                "lunr"
+            ],
+            "description": "A very simple search index.",
+            "website": "https://lunrjs.com/"
+        },
         "LyraThemes Kale": {
             "js": [
                 "kale_responsive_videos"
@@ -14968,6 +14975,10 @@
             ],
             "description": "Matomo Tag Manager manages tracking and marketing tags.",
             "website": "https://developer.matomo.org/guides/tagmanager/introduction"
+        },
+        "Matter.js": {
+            "description": "Matter.js is a 2D physics engine for the web. It provides JavaScript-based tools for simulating rigid body physics in 2D environments.",
+            "website": "https://brm.io/matter-js/"
         },
         "Mattermost": {
             "js": [
@@ -17905,6 +17916,10 @@
             ],
             "description": "PacePay offers a BNPL (Buy now pay later) solution for merchants.",
             "website": "https://pacenow.co/"
+        },
+        "Packery": {
+            "description": "Packery is a JavaScript library and jQuery plugin that makes gapless and draggable layouts.",
+            "website": "https://packery.metafizzy.co/"
         },
         "Packlink PRO": {
             "implies": [
@@ -30797,6 +30812,10 @@
             ],
             "description": "Particles.js is a JavaScript library for creating particles.",
             "website": "https://github.com/VincentGarreau/particles.js"
+        },
+        "pdfmake": {
+            "description": "Client/server side PDF printing in pure JavaScript.",
+            "website": "https://bpampuch.github.io/pdfmake"
         },
         "petite-vue": {
             "description": "petite-vue is an alternative distribution of Vue optimised for progressive enhancement.",
