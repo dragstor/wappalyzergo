@@ -8774,6 +8774,10 @@
             "description": "Flits is a customer account pages that get all your shopper data in one place.",
             "website": "https://getflits.com"
         },
+        "Floating UI": {
+            "description": "A JavaScript library to position floating elements and create interactions for them.",
+            "website": "https://floating-ui.com/"
+        },
         "Flocktory": {
             "js": [
                 "flocktory",
@@ -10789,6 +10793,10 @@
             },
             "description": "HTTP Strict Transport Security (HSTS) informs browsers that the site should only be accessed using HTTPS.",
             "website": "https://www.rfc-editor.org/rfc/rfc6797#section-6.1"
+        },
+        "HTML5 Media": {
+            "description": "HTML5 Media enables video and audio tags in all major browsers.",
+            "website": "https://html5media.info/"
         },
         "HTTP/2": {
             "headers": {
@@ -18099,6 +18107,13 @@
             ],
             "website": "https://www.parse.ly"
         },
+        "Parsley.js": {
+            "js": [
+                "parsley"
+            ],
+            "description": "Javascript forms validation script.",
+            "website": "https://parsleyjs.org"
+        },
         "Partial.ly": {
             "js": [
                 "partiallybutton"
@@ -18606,6 +18621,10 @@
             ],
             "description": "Picturepark is designed to facilitate your DAM policies by storing, tagging, searching and delivering files in an automated and controlled way.",
             "website": "https://picturepark.com"
+        },
+        "Pikaday": {
+            "description": "A refreshing JavaScript Datepicker.",
+            "website": "https://github.com/dbushell/Pikaday"
         },
         "Piman": {
             "description": "Piman is an open-source accessibility UI framework create by Blueplanet Inc.",
@@ -30797,6 +30816,14 @@
             ],
             "website": "https://papaya-cms.com"
         },
+        "parallax.js": {
+            "js": [
+                "parallax",
+                "parallaxinstance"
+            ],
+            "description": "Simple parallax scrolling effect.",
+            "website": "https://github.com/pixelcog/parallax.js"
+        },
         "parcel": {
             "js": [
                 "parcelrequire"
@@ -30940,6 +30967,13 @@
                 "PHP"
             ],
             "website": "https://www.phpwind.net"
+        },
+        "pickadate.js": {
+            "js": [
+                "pickadate"
+            ],
+            "description": "Mobile-friendly, responsive, and lightweight jQuery date \u0026 time input picker.",
+            "website": "https://amsul.ca/pickadate.js/"
         },
         "pinoox": {
             "cookies": {
