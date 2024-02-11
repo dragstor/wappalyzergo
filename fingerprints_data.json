@@ -18313,6 +18313,13 @@
             "description": "PeerTube is a free and open-source, decentralized, federated video platform powered by ActivityPub and WebTorrent.",
             "website": "https://joinpeertube.org/"
         },
+        "Peity": {
+            "js": [
+                "peity"
+            ],
+            "description": "Peity is a simple jQuery plugin that converts an element's content into a simple mini svg pie, line or bar chart.",
+            "website": "https://github.com/benpickles/peity"
+        },
         "Pelican": {
             "html": [
                 "powered by \u003ca href=\"[^\u003e]+getpelican\\.com",
@@ -19389,6 +19396,10 @@
         "Progress WS_FTP": {
             "description": "Progress WS_FTP is a file transfer client software developed by Progress Software Corporation, supporting FTP, FTPS, SFTP, and HTTPS protocols with features like drag-and-drop support, file synchronization, and encrypted data transmission.",
             "website": "https://www.progress.com/ws_ftp"
+        },
+        "ProgressBar.js": {
+            "description": "Responsive progress bars with animated SVG paths.",
+            "website": "https://kimmobrunfeldt.github.io/progressbar.js/"
         },
         "Project Wonderful": {
             "js": [
@@ -21677,6 +21688,10 @@
             "description": "Scorpion is a marketing and technology provider.",
             "website": "https://www.scorpion.co/"
         },
+        "Screenfull.js": {
+            "description": "Simple wrapper for cross-browser usage of the JavaScript Fullscreen API.",
+            "website": "https://sindresorhus.com/screenfull/"
+        },
         "Scrivito": {
             "js": [
                 "scrivito",
@@ -22177,6 +22192,10 @@
             "description": "Shell In A Box implements a web server that can export arbitrary command line tools to a web based terminal emulator.",
             "website": "https://shellinabox.com"
         },
+        "Shepherd": {
+            "description": "Shepherd is a JavaScript library which makes an use-friendly user-guide to any website.",
+            "website": "https://shepherdjs.dev/"
+        },
         "Shift4Shop": {
             "cookies": {
                 "3dvisit": ""
@@ -22598,6 +22617,13 @@
         "ShoutOut": {
             "description": "ShoutOut is a multi-level marketing SaaS solution that allows tracking of affiliates.",
             "website": "https://www.shoutout.global"
+        },
+        "Showdown": {
+            "js": [
+                "showdown"
+            ],
+            "description": "A Markdown to HTML converter written in Javascript.",
+            "website": "https://showdownjs.com/"
         },
         "Showit": {
             "js": [
@@ -29830,6 +29856,13 @@
             "description": "dbip is a geolocation API and database.",
             "website": "https://db-ip.com/"
         },
+        "dc.js": {
+            "js": [
+                "dcapikey"
+            ],
+            "description": "A multi-dimensional charting library built to work natively with crossfilter and rendered using d3.js",
+            "website": "https://dc-js.github.io/dc.js/"
+        },
         "decimal.js": {
             "js": [
                 "decimal.round_half_floor"
@@ -31043,6 +31076,10 @@
             ],
             "website": "https://punbb.informer.com"
         },
+        "punycode": {
+            "description": "A robust Punycode converter that fully complies to RFC 3492 and RFC 5891, and works on nearly all JavaScript platforms.",
+            "website": "https://github.com/mathiasbynens/punycode.js"
+        },
         "qiankun": {
             "description": "qiankun is a JS library who helps developers to build a micro frontends system.",
             "website": "https://qiankun.umijs.org"
@@ -31077,6 +31114,7 @@
             "html": [
                 "\u003c[^\u003e]+data-sr(?:-id)"
             ],
+            "description": "Reveal elements as they enter the viewport.",
             "website": "https://scrollrevealjs.org"
         },
         "shadcn/ui": {
