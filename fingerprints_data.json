@@ -22659,6 +22659,10 @@
             "description": "Signal is a cross-platform encrypted messaging service.",
             "website": "https://www.signal.co/"
         },
+        "SignalR": {
+            "description": "Realtime web communication framework from Microsoft for ASP.NET.",
+            "website": "https://dotnet.microsoft.com/es-es/apps/aspnet/signalr"
+        },
         "Signifyd": {
             "js": [
                 "signifyd_global"
@@ -31133,6 +31137,10 @@
                 "shine"
             ],
             "website": "https://bigspaceship.github.io/shine.js/"
+        },
+        "sidr": {
+            "description": "Sidr is a jQuery plugin for creating side menus.",
+            "website": "https://www.albertovarela.net/sidr/"
         },
         "siimple": {
             "description": "siimple is a minimal CSS toolkit for building flat, clean and responsive web designs.",
