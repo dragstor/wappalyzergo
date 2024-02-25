@@ -23354,6 +23354,10 @@
             "description": "SmugMug is a paid image sharing, image hosting service, and online video platform on which users can upload photos and videos.",
             "website": "https://www.smugmug.com"
         },
+        "Snabbt": {
+            "description": "Minimalistic animation library in javascript Snabbt.js.",
+            "website": "https://daniel-lundin.github.io/snabbt.js/"
+        },
         "Snap": {
             "headers": {
                 "server": "snap/([.\\d]+)\\;version:\\1"
@@ -23458,6 +23462,10 @@
         "Societe des Avis Garantis": {
             "description": "Societe des Avis Garantis is a French company that provides customer review and rating services for businesses through its online platform.",
             "website": "https://www.societe-des-avis-garantis.fr"
+        },
+        "SockJS": {
+            "description": "SockJS is a browser JavaScript library that provides a WebSocket-like object.",
+            "website": "https://sockjs.org"
         },
         "Socket.io": {
             "js": [
@@ -24932,6 +24940,10 @@
             "description": "TablePress is a free and open source plugin for the WordPress publishing platform. It enables you to create and manage tables on your website, without any coding knowledge.",
             "website": "https://tablepress.org"
         },
+        "Tablesorter": {
+            "description": "Flexible client-side table sorting.",
+            "website": "https://mottie.github.io/tablesorter/"
+        },
         "Taboola": {
             "cookies": {
                 "taboola_session_id": ""
@@ -25730,6 +25742,10 @@
             ],
             "description": "Tinybird is a cloud-native data processing platform that allows developers and data teams to build real-time data pipelines and perform complex data transformations and analysis at scale.",
             "website": "https://www.tinybird.co/"
+        },
+        "Tinycon": {
+            "description": "A library for manipulating a websites favicon.",
+            "website": "https://github.com/tommoor/tinycon"
         },
         "Tippy.js": {
             "js": [
@@ -31146,6 +31162,13 @@
             "description": "siimple is a minimal CSS toolkit for building flat, clean and responsive web designs.",
             "website": "https://siimple.xyz"
         },
+        "slideout": {
+            "js": [
+                "slideout"
+            ],
+            "description": "A touch slideout navigation menu for your mobile web apps.",
+            "website": "https://slideout.js.org/"
+        },
         "snigel AdConsent": {
             "js": [
                 "adconsent.version",
@@ -31197,6 +31220,13 @@
                 "server": "\\bthttpd(?:/([\\d.]+))?\\;version:\\1"
             },
             "website": "https://acme.com/software/thttpd"
+        },
+        "timeago": {
+            "js": [
+                "timeago"
+            ],
+            "description": "Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps.",
+            "website": "https://timeago.yarp.com/"
         },
         "toastr": {
             "js": [
