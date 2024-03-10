@@ -5961,6 +5961,15 @@
             "description": "Cratejoy is a brand new ecommerce platform with a focus on subscription payments.",
             "website": "https://www.cratejoy.com"
         },
+        "Crayon Syntax Highlighter": {
+            "js": [
+                "crayonsyntaxsettings",
+                "crayonsyntaxstrings",
+                "crayontageditorsettings"
+            ],
+            "description": "Syntax Highlighter supporting multiple languages, themes, fonts, highlighting from a URL, local file or post text.",
+            "website": "https://wordpress.org/plugins/crayon-syntax-highlighter/"
+        },
         "Crazy Egg": {
             "js": [
                 "ce2"
@@ -7210,6 +7219,10 @@
             ],
             "description": "Dynamic Yield is a provider of automated conversion optimisation tools for marketers and retailers.",
             "website": "https://www.dynamicyield.com"
+        },
+        "Dynamics.js": {
+            "description": "Javascript library to create physics-related animations",
+            "website": "https://dynamicsjs.com"
         },
         "Dynamicweb": {
             "cookies": {
@@ -8485,6 +8498,10 @@
             "description": "Fathom is easy-yet-powerful website analytics that protects digital privacy.",
             "website": "https://usefathom.com"
         },
+        "Faveo": {
+            "description": "Open source help desk system and ticket management tool.",
+            "website": "https://faveohelpdesk.com"
+        },
         "Fbits": {
             "js": [
                 "fbits"
@@ -8785,6 +8802,10 @@
             ],
             "description": "Flocktory is a social referral marketing platform that enables users to share personalised offers via social networks.",
             "website": "https://www.flocktory.com"
+        },
+        "Flot": {
+            "description": "Attractive Javascript plotting for jQuery.",
+            "website": "https://flotcharts.org/"
         },
         "Flow": {
             "js": [
@@ -15475,6 +15496,10 @@
             "description": "MS Word is a word-processing program used primarily for creating documents.",
             "website": "https://office.microsoft.com/word"
         },
+        "Microweber": {
+            "description": "Open Source drag and drop style hosted CMS system.",
+            "website": "https://microweber.com"
+        },
         "Miestro": {
             "meta": {
                 "base_url": [
@@ -15582,6 +15607,10 @@
             },
             "description": "Misskey is a distributed microblogging platform.",
             "website": "https://join.misskey.page/"
+        },
+        "Mithril": {
+            "description": "A Javascript Framework for building applications.",
+            "website": "https://mithril.js.org/"
         },
         "Mittwald": {
             "description": "Mittwald is a web hosting agency, established in 2003 in Espelkamp, Germany",
@@ -30087,6 +30116,10 @@
                 "PHP"
             ],
             "website": "https://experiencedcms.berkearas.de"
+        },
+        "framework7": {
+            "description": "Full Featured Mobile HTML Framework For Building iOS \u0026 Android Apps.",
+            "website": "https://framework7.io/"
         },
         "fullPage.js": {
             "js": [
