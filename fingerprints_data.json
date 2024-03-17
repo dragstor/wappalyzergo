@@ -4819,6 +4819,10 @@
             "description": "Circie is an all-in-one community platform for businesses that brings together engaging courses, discussions, members, live streams, chat, events, and memberships.",
             "website": "https://circle.so"
         },
+        "Citizen Space": {
+            "description": "Next-generation engagement tools for 21st century democracy.",
+            "website": "https://www.delib.net/citizen_space"
+        },
         "CitrusPay": {
             "description": "CitrusPay provides payement gateway and wallet services.",
             "website": "https://consumers.citruspay.com/"
@@ -6419,6 +6423,10 @@
             "description": "Datadog is a SaaS-based monitoring and analytics platform for large-scale applications and infrastructure.",
             "website": "https://www.datadoghq.com"
         },
+        "Datascape": {
+            "description": "Datascape is a cloud-based solution designed to create new ways for councils to work and better engage with their communities.",
+            "website": "https://datacom.com/nz/en/products/datascape"
+        },
         "Datatrics": {
             "js": [
                 "datatricsclick",
@@ -7861,6 +7869,10 @@
             },
             "description": "Endurance Page Cache adds basic file-based caching to WordPress.",
             "website": "https://github.com/bluehost/endurance-page-cache"
+        },
+        "EngagementHQ": {
+            "description": "Essential software for changemakers. Facilitate, centralize, and analyze two-way conversations between you and your community.",
+            "website": "https://granicus.com/solution/govdelivery/engagementhq/"
         },
         "Engagio": {
             "website": "https://www.engagio.com/"
@@ -12355,6 +12367,13 @@
             ],
             "description": "JW Player is a online video player with video engagement analytics, custom video player skins, and live video streaming capability.",
             "website": "https://www.jwplayer.com"
+        },
+        "Jadu": {
+            "headers": {
+                "node": "jadu-web-1"
+            },
+            "description": "The Jadu Digital Platform provides the foundation of accessible, responsive and award-winning Websites, Forms, CRM and Portal solutions.",
+            "website": "https://www.jadu.net/"
         },
         "Jahia DX": {
             "html": [
@@ -23476,6 +23495,10 @@
             ],
             "website": "https://sigsiu.net/sobipro.html"
         },
+        "Social Pinpoint": {
+            "description": "Social Pinpoint is a comprehensive online platform that facilitates meaningful and accessible engagement opportunities that bring your community together.",
+            "website": "https://www.socialpinpoint.com/"
+        },
         "Social9": {
             "description": "Social9 is a social sharing widgets and plugins.",
             "website": "https://social9.com"
@@ -23713,6 +23736,13 @@
             ],
             "description": "Sovrn//Commerce is  a content monetization tool for publishers.",
             "website": "https://www.sovrn.com/publishers/commerce/"
+        },
+        "Spark CMS": {
+            "cookies": {
+                "bni_sparkcmslb": ""
+            },
+            "description": "The CMS has been custom built by our web developers based on feedback from our clients, ensuring an easy to use platform that's been designed in consultation with the end user in mind.",
+            "website": "https://www.councilconnect.com.au/our-websites/about-spark-cms.aspx"
         },
         "SparkPost": {
             "description": "SparkPost is an email infrastructure provider.",
