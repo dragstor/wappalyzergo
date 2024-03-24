@@ -6133,6 +6133,10 @@
             "description": "Custom Fonts plugin helps you easily embed custom fonts files (woff2, woff, ttf, svg, eot, otf) easily in your WordPress website.",
             "website": "https://github.com/brainstormforce/custom-fonts"
         },
+        "Custom Twitter Feeds": {
+            "description": "Custom Twitter Feeds for Wordpress.",
+            "website": "https://wordpress.org/plugins/custom-twitter-feeds"
+        },
         "Customer.io": {
             "description": "Customer.io is an automated messaging platform for marketers.",
             "website": "https://customer.io/"
@@ -7415,6 +7419,10 @@
             "description": "Easy Orders is an ecommerce platform that offers a pricing plan where users can create their online store and pay a fee of 0.5 EGP per order.",
             "website": "https://www.easy-orders.net"
         },
+        "Easy Pie Chart": {
+            "description": "Lightweight jQuery plugin to render and animate nice pie charts with the HTML5 canvas element.",
+            "website": "https://rendro.github.io/easy-pie-chart/"
+        },
         "Easy Redirects": {
             "implies": [
                 "Shopify"
@@ -8019,6 +8027,10 @@
             ],
             "description": "Errorception is a error reporting service for client-side in-browser JavaScript errors.",
             "website": "https://errorception.com"
+        },
+        "EspoCRM": {
+            "description": "Open Source CRM Software.",
+            "website": "https://www.espocrm.com/"
         },
         "Essent SiteBuilder Pro": {
             "meta": {
@@ -15659,6 +15671,10 @@
             "description": "Mixin is a highly-available ecommerce cloud.",
             "website": "https://mixin.ir"
         },
+        "Mixitup": {
+            "description": "A CSS3 and jQuery Filter \u0026 Sort Plugin.",
+            "website": "https://www.kunkalabs.com/mixitup/"
+        },
         "Mixpanel": {
             "js": [
                 "mixpanel"
@@ -17291,6 +17307,10 @@
                 "PHP"
             ],
             "website": "https://open-eshop.com/"
+        },
+        "Open edX": {
+            "description": "The Open edX platform is a free and open source course management system.",
+            "website": "https://openedx.org/"
         },
         "Open-Xchange App Suite": {
             "js": [
