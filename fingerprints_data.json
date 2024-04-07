@@ -5792,6 +5792,10 @@
             "description": "Cookiebot is a cloud-driven solution that automatically controls cookies and trackers, enabling full GDPR/ePrivacy and CCPA compliance for websites.",
             "website": "https://www.cookiebot.com"
         },
+        "Cool Timeline": {
+            "description": "Creates vertical and horizontal history timeline blocks.",
+            "website": "https://wordpress.org/plugins/cool-timeline"
+        },
         "Cooladata": {
             "js": [
                 "cooladata"
@@ -5871,6 +5875,10 @@
                 "server": "couchdb/([\\d.]+)\\;version:\\1"
             },
             "website": "https://couchdb.apache.org"
+        },
+        "Countdown Timer Ultimate": {
+            "description": "Add and display responsive Countdown timer on your website.",
+            "website": "https://wordpress.org/plugins/countdown-timer-ultimate"
         },
         "Countly": {
             "js": [
