@@ -5841,6 +5841,10 @@
             "description": "Corebine is a content management system designed for Sports",
             "website": "https://corebine.com"
         },
+        "Cornerstone": {
+            "description": "Enhanced content management for WordPress.",
+            "website": "https://wordpress.org/plugins/cornerstone"
+        },
         "Correos": {
             "description": "Correos is a state-owned company responsible for providing postal service in Spain.",
             "website": "https://www.correos.es"
@@ -7671,6 +7675,10 @@
             "description": "Elementor is a website builder platform for professionals on WordPress.",
             "website": "https://elementor.com"
         },
+        "Elementor Addon Elements": {
+            "description": "Widgets and extensions to extend the Elementor Page Builder.",
+            "website": "https://wordpress.org/plugins/addon-elements-for-elementor-page-builder"
+        },
         "Elementor Cloud": {
             "headers": {
                 "x-powered-by": "elementor cloud"
@@ -7796,6 +7804,10 @@
             "description": "Eloqua is a Software-as-a-Service (SaaS) platform for marketing automation offered that aims to help B2B marketers and organisations manage marketing campaigns and sales lead generation.",
             "website": "https://eloqua.com"
         },
+        "Email Encoder for Wordpress": {
+            "description": "Protect email addresses and phone numbers from spambots.",
+            "website": "https://wordpress.org/plugins/email-encoder-bundle"
+        },
         "EmailJS": {
             "js": [
                 "emailjs.sendform"
@@ -7821,9 +7833,17 @@
             "description": "Ematic Solutions is part of Ematic Group and started to revolve around transforming email marketing into an ROI machine.",
             "website": "https://www.ematicsolutions.com"
         },
+        "Embed Any Document": {
+            "description": "Embed PDF, DOC, PPT and XLS documents easily on your WordPress website.",
+            "website": "https://wordpress.org/plugins/embed-any-document"
+        },
         "EmbedPlus": {
             "description": "EmbedPlus is a WordPress plugin for YouTube allows you to embed gallery, channel, playlist, or even live stream on your webpage.",
             "website": "https://www.embedplus.com"
+        },
+        "EmbedPress": {
+            "description": "Embed videos, images, posts, audio, maps and upload PDF, DOC, PPT in Wordpress.",
+            "website": "https://wordpress.org/plugins/embedpress"
         },
         "EmbedSocial": {
             "js": [
