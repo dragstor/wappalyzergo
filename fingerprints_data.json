@@ -5508,6 +5508,13 @@
             ],
             "website": "https://www.concretecms.com/"
         },
+        "Conditional Fields for Contact Form 7": {
+            "implies": [
+                "Contact Form 7"
+            ],
+            "description": "Adds conditional logic to Contact Form 7.",
+            "website": "https://wordpress.org/plugins/cf7-conditional-fields"
+        },
         "Conekta": {
             "description": "Conekta is a Mexican payment platform.",
             "website": "https://conekta.com"
@@ -5648,6 +5655,10 @@
         "Contentstack": {
             "description": "Contentstack is a headless CMS software designed to help businesses deliver personalised content experiences to audiences via multiple channels.",
             "website": "https://www.contentstack.com"
+        },
+        "Contextual Related Posts": {
+            "description": "Add related posts to your WordPress site with inbuilt caching.",
+            "website": "https://wordpress.org/plugins/contextual-related-posts/"
         },
         "Contlo": {
             "js": [
@@ -10867,6 +10878,10 @@
             "description": "HTTP Strict Transport Security (HSTS) informs browsers that the site should only be accessed using HTTPS.",
             "website": "https://www.rfc-editor.org/rfc/rfc6797#section-6.1"
         },
+        "HT Mega": {
+            "description": "Elementor addons package for Elementor.",
+            "website": "https://wordpress.org/plugins/ht-mega-for-elementor/"
+        },
         "HTML5 Media": {
             "description": "HTML5 Media enables video and audio tags in all major browsers.",
             "website": "https://html5media.info/"
@@ -12086,6 +12101,10 @@
         "Instafeed.js": {
             "description": "A way to add Instagram photos to your website.",
             "website": "https://instafeedjs.com/"
+        },
+        "Instagram Feed for WordPress": {
+            "description": "Display Instagram photos from any non-private Instagram accounts.",
+            "website": "https://wordpress.org/plugins/instagram-feed/"
         },
         "Instamojo": {
             "js": [
@@ -24696,6 +24715,10 @@
             ],
             "description": "Support Hero is a knowledge base solution to reduce inbound support requests.",
             "website": "https://www.supporthero.com/"
+        },
+        "Surge": {
+            "description": "Static website publishing.",
+            "website": "https://surge.sh"
         },
         "Survicate": {
             "js": [
