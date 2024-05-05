@@ -14867,6 +14867,10 @@
             "description": "MapLibre GL JS is an open-source library for publishing maps on your websites.",
             "website": "https://github.com/maplibre/maplibre-gl-js"
         },
+        "MapPress": {
+            "description": "MapPress is a WordPress plugin that provides easy integration of interactive maps into WordPress websites.",
+            "website": "https://mappresspro.com"
+        },
         "Mapbox GL JS": {
             "js": [
                 "mapboxgl.version"
