@@ -9214,6 +9214,10 @@
             "description": "Frappe is a full stack, batteries-included, web framework written in Python and Javascript.",
             "website": "https://frappeframework.com"
         },
+        "Fraud Blocker": {
+            "description": "Fraudblocker is an ad fraud and click-fraud detection and protection service software.",
+            "website": "https://fraudblocker.com"
+        },
         "FraudLabs Pro": {
             "js": [
                 "fraudlabsproagent"
@@ -15124,6 +15128,13 @@
             "description": "Mavo is a JavaScript library that enables web developers to turn regular HTML into reactive web applications without the need for writing custom JavaScript.",
             "website": "https://mavo.io"
         },
+        "Max Mega Menu": {
+            "js": [
+                "megamenu"
+            ],
+            "description": "Max Mega Menu is a popular WordPress plugin that enhances the menu functionality on WordPress websites.",
+            "website": "https://www.megamenu.com/"
+        },
         "MaxCDN": {
             "headers": {
                 "server": "^netdna",
@@ -16080,6 +16091,10 @@
                 "jQuery"
             ],
             "website": "https://motocms.com"
+        },
+        "Mountain": {
+            "description": "MNTN Performance TV is a CTV advertising platform with targeting, measurement, and optimization for amplifying marketers' performance goals.",
+            "website": "https://mountain.com/"
         },
         "Mouse Flow": {
             "js": [
@@ -19657,6 +19672,13 @@
             ],
             "website": "https://www.publiccms.com"
         },
+        "Publii": {
+            "js": [
+                "publiithememenuconfig"
+            ],
+            "description": "Agnostic server Static Site CMS built for Windows, MacOS and Linux.",
+            "website": "https://getpublii.com"
+        },
         "Pulse Secure": {
             "cookies": {
                 "dssignin": ""
@@ -20814,6 +20836,13 @@
             ],
             "description": "Retype is an open-source static site generator built with Node.js that allows users to create and manage websites with ease using Markdown as the primary content format.",
             "website": "https://retype.com"
+        },
+        "RevContent": {
+            "js": [
+                "revcontent"
+            ],
+            "description": "RevContent is a monetization and recommendation engine that connects advertisers to highly engaged audiences on the web's leading publisher sites.",
+            "website": "https://www.revcontent.com"
         },
         "RevJet": {
             "description": "RevJet is the first comprehensive Ad Experience Platform, for every audience, channel, format, inventory, and device.",
