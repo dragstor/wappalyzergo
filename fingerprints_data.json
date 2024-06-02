@@ -5803,6 +5803,10 @@
             "description": "Cookiebot is a cloud-driven solution that automatically controls cookies and trackers, enabling full GDPR/ePrivacy and CCPA compliance for websites.",
             "website": "https://www.cookiebot.com"
         },
+        "Cool Tag Cloud": {
+            "description": "A simple tag cloud system for WordPress.",
+            "website": "https://wordpress.org/plugins/cool-tag-cloud"
+        },
         "Cool Timeline": {
             "description": "Creates vertical and horizontal history timeline blocks.",
             "website": "https://wordpress.org/plugins/cool-timeline"
@@ -11610,6 +11614,13 @@
             "description": "Hund.io is an automated status pages with monitoring.",
             "website": "https://hund.io"
         },
+        "HurryTimer": {
+            "js": [
+                "hurrytimer_ajax_object"
+            ],
+            "description": "HurryTimer is a cutting-edge WordPress plugin that enables users to create customizable, scheduled countdown timers to further engage visitors and increase conversions.",
+            "website": "https://wordpress.org/plugins/hurrytimer"
+        },
         "Hushly": {
             "js": [
                 "__hly_widget_object"
@@ -15428,6 +15439,10 @@
             ],
             "description": "MetroUI is an open-source frontend toolkit inspired by Microsoft Fluent (former Metro) design principles.",
             "website": "https://github.com/olton/Metro-UI-CSS"
+        },
+        "Metronet Profile Picture": {
+            "description": "Set a custom profile image for a user using the standard WordPress media upload tool.",
+            "website": "https://wordpress.org/plugins/metronet-profile-picture/"
         },
         "Mews": {
             "js": [
