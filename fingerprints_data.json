@@ -7265,6 +7265,10 @@
             "description": "Duopana is a platform for creating online communities, blogs and managing collaborative content.",
             "website": "https://duopana.com"
         },
+        "Dynamic Conditions": {
+            "description": "Dynamic Conditions of Widgets is a cutting-edge WordPress plugin that extends the functionality of your website using conditional logic.",
+            "website": "https://wordpress.org/plugins/dynamicconditions"
+        },
         "Dynamic Yield": {
             "cookies": {
                 "_dy_geo": "",
@@ -8327,6 +8331,10 @@
             ],
             "description": "ExtendThemes Mesmerize is an flexible, multipurpose WordPress theme.",
             "website": "https://extendthemes.com/mesmerize"
+        },
+        "Extendify": {
+            "description": "Extendify is a popular platform used by WordPress site owners to create high-performing and highly-aesthetic websites with ease.",
+            "website": "https://extendify.com"
         },
         "Extole": {
             "js": [
@@ -18164,6 +18172,10 @@
             },
             "description": "PageFly is an app for Shopify that allows you to build landing pages, product pages, blogs, and FAQs.",
             "website": "https://pagefly.io"
+        },
+        "PageLayer": {
+            "description": "Drag and drop page builder for Wordpress.",
+            "website": "https://wordpress.org/plugins/pagelayer"
         },
         "Pagefai CMS": {
             "headers": {
