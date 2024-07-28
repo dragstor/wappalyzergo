@@ -298,8 +298,7 @@
         "Abicart": {
             "meta": {
                 "generator": [
-                    "abicart",
-                    "textalk webshop"
+                    "abicart"
                 ]
             },
             "description": "Abicart is an ecommerce platform developed by the Swedish company Abicart AB.",
@@ -4723,7 +4722,7 @@
                 "server": "cherrypy(?:/([\\d.]+))?\\;version:\\1"
             },
             "description": "CherryPy is an object-oriented web application framework using the Python programming language.",
-            "website": "https://cherrypy.org/"
+            "website": "https://cherrypy.dev/"
         },
         "Chevereto": {
             "js": [
@@ -5293,13 +5292,13 @@
         },
         "CodeIgniter": {
             "cookies": {
-                "ci_csrf_token": "^(.+)$\\;version:\\1?2+:",
+                "ci_csrf_token": "",
                 "ci_session": "",
                 "exp_last_activity": "",
                 "exp_tracker": ""
             },
             "html": [
-                "\u003cinput[^\u003e]+name=\"ci_csrf_token\"\\;version:2+"
+                "\u003cinput[^\u003e]+name=\"ci_csrf_token\""
             ],
             "implies": [
                 "PHP"
@@ -6365,7 +6364,7 @@
             "implies": [
                 "Perl"
             ],
-            "description": "Mono.net delivers the a Software-as-a-Service (SaaS) platform to build and sell websites and other digital products.",
+            "description": "Dancer is a simple but powerful web application framework for Perl.",
             "website": "https://perldancer.org"
         },
         "Danneo CMS": {
@@ -26098,6 +26097,7 @@
             "implies": [
                 "Python"
             ],
+            "description": "Trac is an enhanced wiki and issue tracking system for software development projects.",
             "website": "https://trac.edgewall.org"
         },
         "Track123": {
