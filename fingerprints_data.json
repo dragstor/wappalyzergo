@@ -10724,7 +10724,7 @@
         },
         "Erlang": {
             "headers": {
-                "server": "erlang( otp/(?:[\\d.abr-]+))?\\;version:\\1"
+                "server": "erlang(?: otp/([\\d.abr-]+))?\\;version:\\1"
             },
             "description": "Erlang is a general-purpose, concurrent, functional programming language, and a garbage-collected runtime system.",
             "website": "https://www.erlang.org"
