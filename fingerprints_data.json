@@ -40409,6 +40409,10 @@
             "description": "jQuery Modal is an overlay dialog box or in other words, a popup window that is made to display on the top or 'overlayed' on the current page.",
             "website": "https://jquerymodal.com"
         },
+        "jQuery Popup Overlay": {
+            "description": "jQuery Popup Overlay is a responsive overlay which lets you create modal windows, tooltips, and more.",
+            "website": "https://www.npmjs.com/package/jquery-popup-overlay"
+        },
         "jQuery Sparklines": {
             "implies": [
                 "jQuery"
