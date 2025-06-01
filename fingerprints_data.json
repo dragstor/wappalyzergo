@@ -15702,7 +15702,7 @@
         },
         "Imperva": {
             "headers": {
-                "x-cdn": "^imperva",
+                "x-cdn": "incapsula",
                 "x-iinfo": ""
             },
             "description": "Imperva is a cyber security software and services company for networking, data, and application security.",
