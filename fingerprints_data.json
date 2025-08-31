@@ -1120,7 +1120,7 @@
         },
         "Adobe ColdFusion": {
             "cookies": {
-                "cfglobals": ""
+                "cfid|cftoken|cfmagic|cfglobals": ""
             },
             "js": [
                 "_cfemails"
@@ -10721,6 +10721,9 @@
             "website": "https://drubbit.com"
         },
         "Drupal": {
+            "cookies": {
+                "sess[a-f0-9]{32}": ""
+            },
             "js": [
                 "drupal"
             ],
@@ -12263,6 +12266,9 @@
             "website": "https://go.exponea.com"
         },
         "Express": {
+            "cookies": {
+                "connect\\.sid": ""
+            },
             "headers": {
                 "x-powered-by": "^express(?:$|,)"
             },
@@ -17574,7 +17580,7 @@
         },
         "Imperva": {
             "headers": {
-                "x-cdn": "incapsula",
+                "x-cdn": "^imperva",
                 "x-iinfo": ""
             },
             "description": "Imperva is a cyber security software and services company for networking, data, and application security.",
@@ -18633,6 +18639,9 @@
             "website": "https://www.webdesigner-profi.de/joomla-webdesign/joomla-shop"
         },
         "Joomla": {
+            "cookies": {
+                "joomla_[a-z0-9]+": ""
+            },
             "js": [
                 "jcomments",
                 "joomla"
@@ -22437,6 +22446,9 @@
             "website": "https://www.mediaelementjs.com"
         },
         "MediaWiki": {
+            "cookies": {
+                "wiki\\d+_session": ""
+            },
             "js": [
                 "mw.util.toggletoc",
                 "wgtitle",
@@ -22814,7 +22826,8 @@
         },
         "Microsoft ASP.NET": {
             "cookies": {
-                "asp.net_sessionid": "",
+                "\\.aspxauth": "",
+                "asp\\.net_sessionid": "",
                 "aspsession": ""
             },
             "headers": {
@@ -31958,7 +31971,7 @@
         },
         "Sails.js": {
             "cookies": {
-                "sails.sid": ""
+                "sails\\.sid": ""
             },
             "headers": {
                 "x-powered-by": "^sails(?:$|[^a-z0-9])"
@@ -41651,6 +41664,12 @@
             ],
             "description": "WebSocket is a communication protocol that provides full-duplex communication channels over a single, long-lived connection, enabling interactive communication between web browsers and servers.",
             "website": "https://en.wikipedia.org/wiki/WebSocket"
+        },
+        "WebSphere": {
+            "cookies": {
+                "(?i)ltpatoken": ""
+            },
+            "website": "https://www.ibm.com/products/websphere-application-server"
         },
         "WebToffee Stripe Payment Plugin for WooCommerce": {
             "implies": [
