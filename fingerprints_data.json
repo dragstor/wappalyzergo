@@ -43653,6 +43653,24 @@
             "description": "Zen Planner is a software platform designed for fitness and wellness businesses, offering features such as membership management, class scheduling, and billing automation.",
             "website": "https://zenplanner.com"
         },
+        "ZenBasket": {
+            "cookies": {
+                "zenbasket_session": ""
+            },
+            "js": [
+                "zenbasket",
+                "zenbasketapp",
+                "zenbasketstore"
+            ],
+            "meta": {
+                "generator": [
+                    "zenbasket;confidence:50"
+                ],
+                "zenbasket-platform": []
+            },
+            "description": "ZenBasket is a modern e-commerce website builder that allows users to create, customize, and manage online stores with drag-and-drop features and integrated payment solutions.",
+            "website": "https://www.getzenbasket.com"
+        },
         "Zenbooker": {
             "js": [
                 "zenbooker.badgewidget"
