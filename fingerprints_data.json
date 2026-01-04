@@ -19780,7 +19780,7 @@
         },
         "Imperva": {
             "headers": {
-                "x-cdn": "incapsula",
+                "x-cdn": "^imperva",
                 "x-iinfo": ""
             },
             "description": "Imperva is a cyber security software and services company for networking, data, and application security.",
@@ -26960,7 +26960,7 @@
                 ]
             },
             "description": "MyOnlineStore is a web shop system in the Netherlands.",
-            "website": "https://www.myonlinestore.com/ "
+            "website": "https://www.myonlinestore.com/"
         },
         "MyRest": {
             "description": "MyRest is a reservation system for restaurants that incorporates updated guidelines for gastro marketing.",
