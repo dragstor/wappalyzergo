@@ -36369,7 +36369,7 @@
             "description": "Sana Commerce is an ecommerce platform for SAP and Microsoft Dynamics.",
             "website": "https://www.sana-commerce.com"
         },
-        "Sanity": {
+        "Sanity.io": {
             "headers": {
                 "content-security-policy": "cdn\\.sanity\\.io",
                 "x-sanity-shard": ""
@@ -41207,6 +41207,7 @@
             "js": [
                 "__nuxt__.config.public.supabase",
                 "__nuxt__.config.public.supabase_url",
+                "createclient",
                 "supabase.authadminapi",
                 "supabase.storagekey"
             ],
@@ -46909,6 +46910,9 @@
             "website": "https://websitex5.com"
         },
         "WebSocket": {
+            "headers": {
+                "upgrade": "websocket"
+            },
             "html": [
                 "\u003c(?:link|a)[^\u003e]+href=[\"']wss?://"
             ],
@@ -49792,6 +49796,13 @@
             "description": "A small, fast and rich-API browser/platform/engine detector for both browser and node.",
             "website": "https://opencollective.com/bowser"
         },
+        "bun": {
+            "headers": {
+                "x-powered-by": "bun"
+            },
+            "description": "Bun is a fast JavaScript runtime compatible with Node.js and Deno.",
+            "website": "https://bun.sh"
+        },
         "bxSlider": {
             "description": "Add a respsonsive image slider to any website.",
             "website": "https://bxslider.com/"
@@ -51087,6 +51098,13 @@
             },
             "description": "onpublix is a web content management system (CMS) platform for eBusinesses.",
             "website": "https://www.onpublix.de"
+        },
+        "opentelemetry": {
+            "js": [
+                "otel"
+            ],
+            "description": "OpenTelemetry is a framework for observability, providing standardized APIs, libraries, and agents to collect telemetry data.",
+            "website": "https://opentelemetry.io"
         },
         "osCommerce": {
             "cookies": {
