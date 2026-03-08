@@ -10190,6 +10190,9 @@
             "website": "https://www.cosmicjs.com"
         },
         "Cosmoshop": {
+            "meta": {
+                "cosmoshop.settings": []
+            },
             "website": "https://cosmoshop.de"
         },
         "Cotonti": {
@@ -20435,7 +20438,7 @@
         },
         "Imperva": {
             "headers": {
-                "x-cdn": "^imperva",
+                "x-cdn": "incapsula",
                 "x-iinfo": ""
             },
             "description": "Imperva is a cyber security software and services company for networking, data, and application security.",
