@@ -12339,6 +12339,10 @@
             "description": "Dreamdata is a B2B revenue attribution platform.",
             "website": "https://dreamdata.io"
         },
+        "DressOn": {
+            "description": "DressOn is an AI-powered virtual fitting room that lets online shoppers try on clothes digitally.",
+            "website": "https://dresson.com.br"
+        },
         "Drift": {
             "js": [
                 "drift",
@@ -20438,7 +20442,7 @@
         },
         "Imperva": {
             "headers": {
-                "x-cdn": "incapsula",
+                "x-cdn": "^imperva",
                 "x-iinfo": ""
             },
             "description": "Imperva is a cyber security software and services company for networking, data, and application security.",
@@ -49783,6 +49787,18 @@
             ],
             "description": "WURFL.js is JavaScript that detects device models of smartphones, tablets, smart TVs and game consoles accessing your website.",
             "website": "https://web.wurfl.io/"
+        },
+        "Wx3": {
+            "html": [
+                "\u003ca [^\u003e]*href=\"https://wx3\\.com\\.br\""
+            ],
+            "meta": {
+                "author": [
+                    "wx3"
+                ]
+            },
+            "description": "Wx3 is a Brazilian e-commerce platform for fashion and retail stores.",
+            "website": "https://wx3.com.br"
         },
         "Wyng": {
             "description": "Wyng is a platform that connects audiences and drives consumer actions across various marketing channels.",
