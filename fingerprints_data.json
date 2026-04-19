@@ -36697,6 +36697,21 @@
             "description": "Rocketspark is a website builder that enables users to design and manage professional-looking websites without coding, offering customizable templates and integrated ecommerce features.",
             "website": "https://www.rocketspark.com"
         },
+        "Rofofk": {
+            "js": [
+                "rofofk"
+            ],
+            "headers": {
+                "x-powered-by": "rofofk"
+            },
+            "meta": {
+                "generator": [
+                    "rofofk"
+                ]
+            },
+            "description": "Rofofk is an Arabic multi-tenant e-commerce SaaS platform.",
+            "website": "https://rofofk.com"
+        },
         "Roistat": {
             "js": [
                 "roistathost",
