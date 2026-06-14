@@ -1425,6 +1425,28 @@
             "description": "Advin is a provider of ecommerce solutions and tailored web information systems for clients.",
             "website": "https://www.advin.cz"
         },
+        "Adwos CMS": {
+            "html": [
+                "\u003cmeta[^\u003e]+name=\"adwos:powered-by\"",
+                "\u003cmeta[^\u003e]+property=\"og:site_name\"[^\u003e]+content=\"adwos cms\""
+            ],
+            "meta": {
+                "application-name": [
+                    "^adwos cms$"
+                ],
+                "generator": [
+                    "^adwos cms"
+                ]
+            },
+            "implies": [
+                "Go",
+                "Next.js",
+                "PostgreSQL",
+                "Redis"
+            ],
+            "description": "Adwos CMS is a turnkey CMS for classified ads, marketplaces and rental services. Go 1.24 backend + Next.js 16 frontend, PostgreSQL 16, Redis. Self-hosted, one-time license per domain.",
+            "website": "https://adwos.org"
+        },
         "Adyen": {
             "js": [
                 "adyen.encrypt.version"
@@ -2622,6 +2644,16 @@
             ],
             "description": "Angular Material is a UI component library for Angular JS developers. Angular Material components assist in constructing attractive, consistent, and functional web pages and web applications.",
             "website": "https://material.angularjs.org"
+        },
+        "Angular Notitia": {
+            "js": [
+                "ngxnotitia"
+            ],
+            "implies": [
+                "Angular"
+            ],
+            "description": "Easy, flexible toast notification library for Angular applications.",
+            "website": "https://ngx-notitia.vercel.app"
         },
         "AngularDart": {
             "js": [
@@ -8906,6 +8938,10 @@
             ],
             "description": "Turnstile is Cloudflare's smart CAPTCHA alternative.",
             "website": "https://www.cloudflare.com/products/turnstile"
+        },
+        "Cloudflare Turnstile for WooCommerce": {
+            "description": "Cloudflare Turnstile Integration Plugin for WooCommerce adds Cloudflare Turnstile support to WooCommerce forms.",
+            "website": "https://wordpress.org/plugins/simple-cloudflare-turnstile/"
         },
         "Cloudflare Workers": {
             "meta": {
@@ -20442,7 +20478,7 @@
         },
         "Imperva": {
             "headers": {
-                "x-cdn": "incapsula",
+                "x-cdn": "^imperva",
                 "x-iinfo": ""
             },
             "description": "Imperva is a cyber security software and services company for networking, data, and application security.",
@@ -24484,6 +24520,10 @@
             "description": "Lofty is an all-in-one platform for real estate professionals that automates marketing campaigns and facilitates lead capture and conversion.",
             "website": "https://lofty.com"
         },
+        "LogMeIn": {
+            "description": "LogMeIn (now part of GoTo) provides remote access, remote support, and identity and collaboration software for individuals and businesses.",
+            "website": "https://www.logmein.com"
+        },
         "LogRocket": {
             "js": [
                 "logrocket._buffer"
@@ -25065,6 +25105,24 @@
             ],
             "description": "MUI(formerly Material UI) is a simple and customisable component library to build faster, beautiful, and more accessible React applications.",
             "website": "https://mui.com"
+        },
+        "MVD Studio": {
+            "headers": {
+                "x-built-by": "mvd studio",
+                "x-generator": "mvd studio",
+                "x-powered-by": "mvd studio"
+            },
+            "meta": {
+                "generator": [
+                    "mvd studio"
+                ]
+            },
+            "implies": [
+                "Laravel",
+                "PHP"
+            ],
+            "description": "MVD Studio is a Laravel-based platform built by MVD Studio (Uruguay) for e-commerce stores and bespoke web applications.",
+            "website": "https://mvdstudio.com.uy"
         },
         "Maatoo": {
             "description": "Maatoo is an all-in-one marketing tool designed to streamline campaign management, customer engagement, and analytics in a single platform.",
@@ -40248,6 +40306,14 @@
             "description": "Sky-Shop.pl is a platform for dropshipping an online sales on Allegro, eBay and Amazon.",
             "website": "https://sky-shop.pl"
         },
+        "SkyCMS by Netkoncept": {
+            "cookies": {
+                "skycms_languageid": "",
+                "skycms_pagecounter": ""
+            },
+            "description": "Polish SaaS content-management platform developed by NETKONCEPT, primarily used by public administration websites and Public Information Bulletin (BIP) portals.",
+            "website": "https://www.netkoncept.com/86/63/technologia-skycms.html"
+        },
         "SkyGlue": {
             "description": "SkyGlue is a tool that automatically tracks every user action on a website, providing insights into user behavior, their needs, and the reasons for drop-off.",
             "website": "https://www.skyglue.com"
@@ -47019,6 +47085,22 @@
             "description": "VerseOne is a provider of Content Management Systems (CMS) for the healthcare and housing sectors.",
             "website": "https://www.verseone.com"
         },
+        "VertaFlow Analytics": {
+            "description": "VertaFlow Analytics is a lightweight, cookie-free, first-party analytics pixel that tracks pageviews, clicks, scroll depth, and UTM campaigns, sending events to VertaFlow CRM.",
+            "website": "https://vertaflow.io"
+        },
+        "VertaFlow Booking": {
+            "description": "VertaFlow Booking is an embeddable appointment-scheduling widget that syncs bookings to VertaFlow CRM.",
+            "website": "https://vertaflow.io"
+        },
+        "VertaFlow Chat": {
+            "description": "VertaFlow Chat is a lightweight embeddable chat widget that routes messages to VertaFlow CRM tickets.",
+            "website": "https://vertaflow.io"
+        },
+        "VertaFlow Forms": {
+            "description": "VertaFlow Forms is an embeddable lead-capture form widget that routes submissions to VertaFlow CRM.",
+            "website": "https://vertaflow.io"
+        },
         "Vertex": {
             "meta": {
                 "generator": [
@@ -48434,6 +48516,13 @@
             "description": "Web4Realty is an all-in-one marketing and sales platform for real estate professionals.",
             "website": "https://web4realty.com"
         },
+        "WebAdministrator CMS": {
+            "html": [
+                "\u003c!-- [\\d\\.]+ / webadministrator \\(\\d{2}.\\d{2}\\.\\d{4} \\d{2}:\\d{2}\\) //--\u003e"
+            ],
+            "description": "WebAdministrator CMS is a content management system used heavily by Polish public institutions.",
+            "website": "https://www.jskinternet.pl/jsk/oferta/webadministrator-cms/"
+        },
         "WebAssembly": {
             "js": [
                 "wasmbinary",
@@ -49730,6 +49819,10 @@
             ],
             "description": "Workday is an enterprise cloud platform that provides solutions for finance, human resources, and business planning.",
             "website": "https://www.workday.com"
+        },
+        "Workplace by Meta": {
+            "description": "Workplace was an enterprise collaboration and communication platform developed by Meta (formerly Facebook), used for messaging, news feeds, and groups within organisations.",
+            "website": "https://www.workplace.com"
         },
         "Workstand": {
             "meta": {
@@ -52894,6 +52987,20 @@
             ],
             "description": "mod_wsgi is an Apache HTTP Server module that provides a WSGI compliant interface for hosting Python based web applications under Apache.",
             "website": "https://code.google.com/p/modwsgi"
+        },
+        "n8n": {
+            "cookies": {
+                "n8n-auth": ""
+            },
+            "meta": {
+                "n8n:config:rest-endpoint": [],
+                "n8n:config:sentry": []
+            },
+            "implies": [
+                "Node.js"
+            ],
+            "description": "n8n is a source-available workflow automation tool that allows you to connect various services and build automated workflows with a visual node-based editor.",
+            "website": "https://n8n.io"
         },
         "nghttpx - HTTP/2 proxy": {
             "headers": {
