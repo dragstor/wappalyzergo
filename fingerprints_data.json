@@ -2792,6 +2792,10 @@
             "description": "Anthology Encompass is a constituent engagement management provider or educational institutions that provides modules to help you manage events, websites and content, data, and more.",
             "website": "https://www.anthology.com/products/lifecycle-engagement/alumni-and-advancement/anthology-encompass"
         },
+        "Anthropic": {
+            "description": "Anthropic is an AI safety company that develops Claude, a family of large language models, and provides an API for building AI-powered applications. The anthropic-domain-verification TXT record confirms domain ownership for Anthropic services.",
+            "website": "https://www.anthropic.com"
+        },
         "AntiBot.Cloud": {
             "meta": {
                 "generator": [
@@ -10653,6 +10657,10 @@
             },
             "description": "Curaytor is a digital marketing platform that provides online strategy, advertising, and lead generation solutions for businesses seeking to enhance their digital presence.",
             "website": "https://www.curaytor.com"
+        },
+        "Cursor": {
+            "description": "Cursor is an AI-powered code editor (IDE) that uses large language models to generate, edit, and explain code. The cursor-domain-verification TXT record confirms domain ownership for Cursor services.",
+            "website": "https://www.cursor.com"
         },
         "Custobar": {
             "js": [
@@ -21991,6 +21999,10 @@
             "description": "KQS.store is an ecommerce software.",
             "website": "https://www.kqs.pl"
         },
+        "KRT CDN": {
+            "description": "KRT CDN is a Content Delivery Network used for delivering assets securely and quickly.",
+            "website": "https://krajtilak.in"
+        },
         "KUKUI": {
             "description": "KUKUI is an all-in-one solution designed to enhance profitability, streamline lead management, and boost customer engagement for shop marketing.",
             "website": "https://www.kukui.com"
@@ -22056,6 +22068,17 @@
             ],
             "description": "Kakao platform provides various services such as Kakao Talk, Kakao Talk Channel, Kakao Story as well as Kakao Pay, Kakao Commerce, Kakao Page provided by the subsidiaries. Users can use all Kakao platform services with a united account called Kakao Account.",
             "website": "https://developers.kakao.com/product"
+        },
+        "KaliCart Bridge": {
+            "html": [
+                "\u003clink[^\u003e]+rel=[\"']kalicart-agent[\"'][^\u003e]*\u003e",
+                "wp-json\\/kalicart\\/v1\\/discovery"
+            ],
+            "implies": [
+                "WooCommerce"
+            ],
+            "description": "KaliCart Bridge is a WooCommerce plugin that exposes a structured REST API and MCP server, making the store catalog readable by AI agents and MCP clients.",
+            "website": "https://bridge.kalicart.com"
         },
         "Kalio": {
             "meta": {
@@ -47085,6 +47108,15 @@
             "description": "VerseOne is a provider of Content Management Systems (CMS) for the healthcare and housing sectors.",
             "website": "https://www.verseone.com"
         },
+        "VertaFlow": {
+            "html": [
+                "\u003cscript[^\u003e]+src=[\"']https://api\\.vertaflow\\.io/v1/pixel\\.js[\"'][^\u003e]*data-site=",
+                "powered by vertaflow",
+                "window\\.__tenant_config__="
+            ],
+            "description": "VertaFlow is a vertical CRM and commerce platform for small businesses, with client portals, payments, storefront widgets, online ordering, messaging, and industry-specific workflows.",
+            "website": "https://vertaflow.io"
+        },
         "VertaFlow Analytics": {
             "description": "VertaFlow Analytics is a lightweight, cookie-free, first-party analytics pixel that tracks pageviews, clicks, scroll depth, and UTM campaigns, sending events to VertaFlow CRM.",
             "website": "https://vertaflow.io"
@@ -49297,6 +49329,10 @@
             "description": "Windows Server is a brand name for a group of server operating systems.",
             "website": "https://microsoft.com/windowsserver"
         },
+        "Windsurf": {
+            "description": "Windsurf (formerly Codeium) is an AI-powered code editor (IDE) that uses large language models for code generation, completion, and agentic workflows. The windsurf-verification TXT record confirms domain ownership for Windsurf services.",
+            "website": "https://windsurf.com"
+        },
         "WineDirect": {
             "js": [
                 "vin65.checkout",
@@ -50880,6 +50916,10 @@
                 "\u003cimg [^\u003e]*src=\"[^\"]+ad\\.zanox\\.com"
             ],
             "website": "https://zanox.com"
+        },
+        "Zapier": {
+            "description": "Zapier is a workflow automation platform that connects apps and services to build automated workflows (Zaps) without code. The zapier-domain-verification-challenge TXT record confirms domain ownership for Zapier services.",
+            "website": "https://zapier.com"
         },
         "Zapiet": {
             "js": [
