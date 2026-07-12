@@ -7569,6 +7569,24 @@
             "description": "Cartful is a customer-focused service that assists online shoppers in locating suitable products on a website.",
             "website": "https://www.cartful.com"
         },
+        "Cartline": {
+            "js": [
+                "cartline.platform"
+            ],
+            "headers": {
+                "x-cartline-platform": "cartline\\.pk"
+            },
+            "meta": {
+                "application-name": [
+                    "^cartline$"
+                ],
+                "generator": [
+                    "^cartline$"
+                ]
+            },
+            "description": "Cartline is a Pakistani ecommerce and WhatsApp-commerce platform for creating online stores with cart, checkout and order management. Part of the One Line commerce suite.",
+            "website": "https://cartline.pk"
+        },
         "Cartpanda": {
             "js": [
                 "cartpanda",
