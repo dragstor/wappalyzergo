@@ -9478,6 +9478,18 @@
             "description": "Commercio is a platform that allows promotional product distributors to set up fully branded company stores.",
             "website": "https://commercio.com"
         },
+        "Commercy": {
+            "meta": {
+                "generator": [
+                    "^commercy$"
+                ]
+            },
+            "implies": [
+                "Next.js"
+            ],
+            "description": "Commercy is an Argentine commerce platform that combines an online store, point of sale, inventory and ARCA/AFIP electronic invoicing in a single system.",
+            "website": "https://commercy.com.ar"
+        },
         "Common Ground": {
             "js": [
                 "webpackjsonpcommonground-react"
