@@ -40558,6 +40558,18 @@
             "description": "SmartEmailing is a Czech-based marketing solution that provides email marketing tools for creating, managing, and analyzing email campaigns to support customer communication and engagement.",
             "website": "https://www.smartemailing.cz"
         },
+        "SmartFront": {
+            "meta": {
+                "generator": [
+                    "^smartfront(?: ([\\d.]+))?$\\;version:\\1"
+                ]
+            },
+            "implies": [
+                "Next.js"
+            ],
+            "description": "SmartFront is a multi-tenant headless storefront and admin platform that runs on top of an existing commerce backend such as Magento, Shopify, WooCommerce, Shopware, BigCommerce, PrestaShop, OpenCart, Sylius or Medusa, or on its own native commerce.",
+            "website": "https://smartfront.io"
+        },
         "SmartHint": {
             "js": [
                 "countinitsmarthint",
@@ -47074,6 +47086,15 @@
         "Vergic": {
             "description": "Vergic is a platform facilitating real-time online engagement between site owners, customer service agents, and individual customers, prospects, or visitors.",
             "website": "https://www.vergic.com"
+        },
+        "Verificado": {
+            "js": [
+                "verificadoai.version",
+                "verificadoaikeyid",
+                "verificadoaiuribasecdn"
+            ],
+            "description": "Verificado is a SaaS platform for collecting, moderating and publishing verified product and seller reviews on ecommerce sites.",
+            "website": "https://verificado.ai"
         },
         "Verifone 2Checkout": {
             "description": "Verifone is an American multinational corporation headquartered in Coral Springs, Florida, that provides technology for electronic payment transactions and value-added services at the point-of-sale.",
