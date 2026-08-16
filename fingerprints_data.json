@@ -566,6 +566,9 @@
             "website": "https://accessibe.com"
         },
         "AccessiWay": {
+            "js": [
+                "accesswidget.config.footerhtml"
+            ],
             "description": "AccessiWay is a solution focused on digital accessibility and compliance for organizations seeking to meet established standards.",
             "website": "https://www.accessiway.com"
         },
@@ -1177,6 +1180,10 @@
         "Adnymics": {
             "description": "Adnymics is a platform that enables personalization in ecommerce by tailoring content, recommendations, and experiences to individual users based on their behavior and preferences.",
             "website": "https://adnymics.com"
+        },
+        "Adobe": {
+            "description": "Adobe enterprise domain claim, used by the Adobe Admin Console to verify ownership of a domain for Adobe identity management.",
+            "website": "https://www.adobe.com"
         },
         "Adobe Analytics": {
             "js": [
@@ -3703,6 +3710,10 @@
             "description": "Bitbucket is a web-based version control repository hosting service for source code and development projects that use either Mercurial or Git revision control systems.",
             "website": "https://www.atlassian.com/software/bitbucket/overview/"
         },
+        "Atlassian Cloud": {
+            "description": "Atlassian Cloud is the hosted platform behind Atlassian products such as Jira, Confluence and Bitbucket.",
+            "website": "https://www.atlassian.com"
+        },
         "Atlassian Confluence": {
             "headers": {
                 "x-confluence-request-time": ""
@@ -3904,6 +3915,10 @@
         "Autoconf": {
             "description": "Autoconf is a system designed for managing car dealership operations, including inventory, sales, and customer data.",
             "website": "https://autoconf.com.br"
+        },
+        "Autodesk": {
+            "description": "Autodesk provides design, engineering and construction software.",
+            "website": "https://www.autodesk.com"
         },
         "Autoketing": {
             "description": "Autoketing is a marketing automation platform.",
@@ -6172,6 +6187,10 @@
             "description": "Bowtie is an AI-powered messaging platform for businesses that lets customers book appointments, buy products, and ask questions.",
             "website": "https://www.bowtie.ai"
         },
+        "Box": {
+            "description": "Box is a cloud content management and file sharing platform.",
+            "website": "https://www.box.com"
+        },
         "Boxmode": {
             "js": [
                 "_boxmodeconfig",
@@ -8306,6 +8325,10 @@
             ],
             "description": "Circie is an all-in-one community platform for businesses that brings together engaging courses, discussions, members, live streams, chat, events, and memberships.",
             "website": "https://circle.so"
+        },
+        "Cisco": {
+            "description": "Cisco networking, collaboration and security services domain verification.",
+            "website": "https://www.cisco.com"
         },
         "Citizen Space": {
             "js": [
@@ -13409,6 +13432,10 @@
             "description": "Elevar is an official Shopify Plus Partner data collection and marketing monitoring tool.",
             "website": "https://www.getelevar.com"
         },
+        "ElevenLabs": {
+            "description": "ElevenLabs provides AI speech synthesis and voice cloning services.",
+            "website": "https://elevenlabs.io"
+        },
         "Eleventy": {
             "meta": {
                 "generator": [
@@ -15042,6 +15069,10 @@
             "description": "Fieldd is a scheduling software used to plan, assign, and manage field service operations.",
             "website": "https://fieldd.co"
         },
+        "Figma": {
+            "description": "Figma is a collaborative interface design and prototyping platform.",
+            "website": "https://www.figma.com"
+        },
         "Filamentphp": {
             "js": [
                 "filamentdata",
@@ -15437,6 +15468,10 @@
             ],
             "description": "Flexbe is a website and landing page builder that allows users to create and design web pages without coding.",
             "website": "https://flexbe.com"
+        },
+        "Flexera": {
+            "description": "Flexera provides IT asset management and software spend optimisation.",
+            "website": "https://www.flexera.com"
         },
         "FlexiFunnels": {
             "description": "FlexiFunnels is a platform for building high-converting sales funnels, generating leads, and selling products without requiring coding knowledge.",
@@ -17570,6 +17605,10 @@
             "description": "GlobalShopex offers a logistics ecommerce solution easy to integrate, which helps online businesses to sell in over 200 countries.",
             "website": "https://www.globalshopex.com"
         },
+        "GlobalSign": {
+            "description": "GlobalSign is a certificate authority providing TLS, code signing and identity certificates.",
+            "website": "https://www.globalsign.com"
+        },
         "Globo Also Bought": {
             "implies": [
                 "Shopify"
@@ -18781,6 +18820,10 @@
             "description": "HP iLO is a tool that provides multiple ways to configure, update, monitor, and run servers remotely.",
             "website": "https://hp.com"
         },
+        "HPE GreenLake": {
+            "description": "HPE GreenLake is Hewlett Packard Enterprise's hybrid cloud platform delivering infrastructure as a service.",
+            "website": "https://www.hpe.com/us/en/greenlake.html"
+        },
         "HSTS": {
             "headers": {
                 "strict-transport-security": ""
@@ -18811,6 +18854,10 @@
             },
             "description": "HTTP/3 is the third major version of the Hypertext Transfer Protocol used to exchange information on the World Wide Web.",
             "website": "https://httpwg.org/"
+        },
+        "HackerOne": {
+            "description": "HackerOne is a vulnerability disclosure and bug bounty platform.",
+            "website": "https://www.hackerone.com"
         },
         "Haddock": {
             "html": [
@@ -18989,6 +19036,10 @@
         "HashThemes Total": {
             "description": "HashThemes Total is the powerful and creative multipurpose WordPress theme.",
             "website": "https://hashthemes.com/wordpress-theme/total"
+        },
+        "HashiCorp Cloud Platform": {
+            "description": "HashiCorp Cloud Platform is the managed service offering for HashiCorp products such as Terraform, Vault, Consul and Boundary.",
+            "website": "https://www.hashicorp.com/cloud"
         },
         "Hashnode": {
             "description": "Hashnode is a free developer blogging platform that allows you to publish articles on your own domain and helps you stay connected with a global developer community.",
@@ -20155,6 +20206,10 @@
             "description": "Hyva Themes is a performance-optimised theme for Magento 2 which eliminated the third-party libraries and having only two dependencies Alpine.js and Tailwind CSS.",
             "website": "https://hyva.io"
         },
+        "IBM": {
+            "description": "IBM enterprise domain claim, used by IBMid to verify ownership of a domain for IBM Cloud and IBM account management.",
+            "website": "https://www.ibm.com"
+        },
         "IBM Carbon Design System": {
             "description": "IBM Carbon Design System is an open-source design system for building products and digital experiences.",
             "website": "https://carbondesignsystem.com"
@@ -20516,7 +20571,7 @@
         },
         "Imperva": {
             "headers": {
-                "x-cdn": "incapsula",
+                "x-cdn": "^imperva",
                 "x-iinfo": ""
             },
             "description": "Imperva is a cyber security software and services company for networking, data, and application security.",
@@ -21454,6 +21509,10 @@
             "description": "Jameda is an online appointment scheduling system for doctors, enabling patients to book medical consultations.",
             "website": "https://www.jameda.de"
         },
+        "Jamf": {
+            "description": "Jamf is an Apple device management (MDM) and endpoint security platform.",
+            "website": "https://www.jamf.com"
+        },
         "Jarvis Analytics": {
             "description": "Jarvis Analytics is a dental analytics platform that collects, processes, and visualizes dental data to support clinical decision-making and operational insights.",
             "website": "https://www.jarvisanalytics.com"
@@ -21560,6 +21619,10 @@
             ],
             "description": "Jenny is a customer service chatbot platform.",
             "website": "https://www.getjenny.com"
+        },
+        "JetBrains": {
+            "description": "JetBrains develops IDEs and developer tools including IntelliJ IDEA and TeamCity.",
+            "website": "https://www.jetbrains.com"
         },
         "JetEngine": {
             "description": "JetEngine is a content plugin for WordPress that allows users to create custom post types, taxonomies, and meta boxes, offering flexibility in building complex websites without requiring coding skills.",
@@ -24352,6 +24415,10 @@
             "description": "LivePerson is a tool for conversational chatbots and messaging.",
             "website": "https://www.liveperson.com"
         },
+        "LiveRamp": {
+            "description": "LiveRamp is an identity resolution and data collaboration platform.",
+            "website": "https://liveramp.com"
+        },
         "LiveRamp DPM": {
             "js": [
                 "dpmcomscorevars"
@@ -24583,6 +24650,18 @@
             ],
             "description": "LogRocket is a logging and session replay platform that helps developers identify and troubleshoot issues in web applications by recording and replaying user sessions, along with capturing logs and user interactions in real-time.",
             "website": "https://logrocket.com"
+        },
+        "LogaTech": {
+            "headers": {
+                "x-powered-by": "^logatech$"
+            },
+            "meta": {
+                "generator": [
+                    "^logatech$"
+                ]
+            },
+            "description": "LogaTech is a web development company offering a platform used to build and manage multi-tenant CMS, CRM and e-commerce websites.",
+            "website": "https://logatech.net"
         },
         "Logaholic": {
             "js": [
@@ -26488,6 +26567,10 @@
             "description": "MessageMedia is a software service provider that helps businesses communicate with their customers and other contacts using SMS messages.",
             "website": "https://messagemedia.com"
         },
+        "Meta": {
+            "description": "Meta domain verification, used by Meta Business to prove ownership of a domain for Facebook and Instagram business assets.",
+            "website": "https://about.meta.com"
+        },
         "MetaMap": {
             "description": "MetaMap is an identity verification platform that provides customizable solutions for gaining customer insights and making informed decisions.",
             "website": "https://www.metamap.com"
@@ -27034,6 +27117,10 @@
             "description": "Mirakl is a marketplace SaaS platform designed to support both B2B and B2C commerce operations.",
             "website": "https://www.mirakl.com"
         },
+        "Miro": {
+            "description": "Miro is a collaborative online whiteboard and visual workspace platform.",
+            "website": "https://miro.com"
+        },
         "Mirus": {
             "description": "Mirus is a platform that provides scalable solutions capable of adjusting capacity to meet demand while maintaining resilience against unexpected challenges.",
             "website": "https://mirusresearch.com"
@@ -27481,6 +27568,10 @@
         "MongoDB": {
             "description": "MongoDB is a document-oriented NoSQL database used for high volume data storage.",
             "website": "https://www.mongodb.org"
+        },
+        "MongoDB Atlas": {
+            "description": "MongoDB Atlas is MongoDB's managed multi-cloud database service.",
+            "website": "https://www.mongodb.com/atlas"
         },
         "Mongrel": {
             "headers": {
@@ -29979,6 +30070,10 @@
             "description": "Open-Xchange is a web-based communication, collaboration and office productivity software suite.",
             "website": "https://www.open-xchange.com/"
         },
+        "OpenAI": {
+            "description": "OpenAI provides the GPT family of models and the ChatGPT product line.",
+            "website": "https://openai.com"
+        },
         "OpenBSD httpd": {
             "headers": {
                 "server": "^openbsd httpd"
@@ -31113,6 +31208,10 @@
             "description": "Palbin is an ecommerce platform designed to create and manage online businesses.",
             "website": "https://www.palbin.com"
         },
+        "Palo Alto Networks": {
+            "description": "Palo Alto Networks is a network and cloud security vendor.",
+            "website": "https://www.paloaltonetworks.com"
+        },
         "Palo Alto Networks - GlobalProtect": {
             "description": "GlobalProtect is a web-based portal that enables connection to a VPN, providing secure access to enterprise networks and resources.",
             "website": "https://www.paloaltonetworks.com/sase/globalprotect"
@@ -31245,6 +31344,10 @@
             ],
             "description": "Paraglide JS is a compiler-based i18n library that emits tree-shakable message functions for optimized localization workflows.",
             "website": "https://inlang.com/m/gerre34r/library-inlang-paraglideJs"
+        },
+        "Parallels": {
+            "description": "Parallels provides virtualization and remote application delivery software, including Parallels Desktop and Parallels RAS.",
+            "website": "https://www.parallels.com"
         },
         "ParcelPanel": {
             "description": "ParcelPanel is a solution for tracking shipments and managing returns for ecommerce businesses.",
@@ -32809,6 +32912,10 @@
             "description": "Pocus is a platform that uses AI agents to monitor B2B accounts and identify real sales opportunities at critical moments.",
             "website": "https://www.pocus.com"
         },
+        "Podbean": {
+            "description": "Podbean is a podcast hosting platform whose players and media are embedded on sites via podbean.com domains.",
+            "website": "https://podbean.com"
+        },
         "Podia": {
             "cookies": {
                 "_podia_storefront_visitor_id": ""
@@ -33109,6 +33216,10 @@
         "Postie": {
             "description": "Postie is an all-in-one platform facilitating audience building, A/B testing, and campaign deployment.",
             "website": "https://postie.com"
+        },
+        "Postman": {
+            "description": "Postman is an API development and testing platform.",
+            "website": "https://www.postman.com"
         },
         "Postman API Documentation": {
             "js": [
@@ -40397,6 +40508,10 @@
             "description": "Slaask is a customer messaging app designed for all Slack users to streamline customer service communication within the Slack interface.",
             "website": "https://get.slaask.com"
         },
+        "Slack": {
+            "description": "Slack is a team messaging and collaboration platform.",
+            "website": "https://slack.com"
+        },
         "Slapform": {
             "description": "Slapform is a backend service for forms that securely stores submissions in the cloud and sends them via email.",
             "website": "https://slapform.com"
@@ -40633,6 +40748,10 @@
         "Smartpoint": {
             "description": "Smartpoint is a car dealer conversion optimization system that improves lead capture and sales performance through data-driven tools and customer engagement features.",
             "website": "https://smartpoint.pro"
+        },
+        "Smartsheet": {
+            "description": "Smartsheet is a work management and collaborative spreadsheet platform.",
+            "website": "https://www.smartsheet.com"
         },
         "Smartstore": {
             "cookies": {
@@ -45736,6 +45855,10 @@
             },
             "website": "https://www.twilightcms.com"
         },
+        "Twilio": {
+            "description": "Twilio is a cloud communications platform providing SMS, voice, email and messaging APIs.",
+            "website": "https://www.twilio.com"
+        },
         "Twilio Authy": {
             "js": [
                 "authy"
@@ -46022,6 +46145,10 @@
             ],
             "description": "UXSniff is a UX analysis tool that automatically detects usability issues by analyzing user behavior, including layout shifts and rage clicks, to identify potential conversion problems early.",
             "website": "https://uxsniff.com"
+        },
+        "Uber": {
+            "description": "Uber domain verification, used by Uber for Business to prove ownership of a company domain.",
+            "website": "https://www.uber.com"
         },
         "Ubercart": {
             "implies": [
@@ -46739,6 +46866,10 @@
         "VKUI": {
             "description": "VKUI is a set of React components with which you can create interfaces that are visually indistinguishable from our iOS and Android applications.",
             "website": "https://vkcom.github.io/VKUI"
+        },
+        "VMware CloudHealth": {
+            "description": "CloudHealth by VMware is a multi-cloud cost management and governance platform.",
+            "website": "https://www.vmware.com"
         },
         "VNN Sports": {
             "js": [
@@ -49557,6 +49688,10 @@
             ],
             "website": "https://www.wix.com/freesitebuilder/tae-store"
         },
+        "Wiz": {
+            "description": "Wiz is a cloud-native application protection platform (CNAPP).",
+            "website": "https://www.wiz.io"
+        },
         "WizSoft": {
             "description": "WizSoft is a search engine designed for embedding in ecommerce websites and other platforms where data are stored in records.",
             "website": "https://www.wizsoft.com"
@@ -50370,6 +50505,10 @@
         "YachtSys": {
             "description": "YachtSys is a booking management system.",
             "website": "https://www.yachtsys.com"
+        },
+        "Yahoo": {
+            "description": "Yahoo domain verification, used to prove ownership of a domain to Yahoo services.",
+            "website": "https://www.yahoo.com"
         },
         "Yahoo Advertising": {
             "js": [
@@ -51507,6 +51646,10 @@
         "ZoodPay": {
             "description": "ZoodPay is a financial technology company that provides payment and financing solutions, including buy-now-pay-later (BNPL) services and point-of-sale financing, to facilitate transactions for consumers and businesses.",
             "website": "https://www.zoodpay.com"
+        },
+        "Zoom": {
+            "description": "Zoom is a video conferencing and collaboration platform.",
+            "website": "https://www.zoom.com"
         },
         "Zoominfo": {
             "description": "ZoomInfo provides actionable B2B contact and company information for sales and marketing teams.",
