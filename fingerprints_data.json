@@ -1,5 +1,11 @@
 {
     "apps": {
+        "10to8": {
+            "html": [
+                "\u003ca [^\u003e]*id=\"tte[^\"]"
+            ],
+            "website": "https://10to8.com/"
+        },
         "11Sight": {
             "js": [
                 "elevensight",
@@ -72,6 +78,9 @@
             "description": "34SP.com specialises in website hosting, discount domain names, low cost VPS servers and dedicated servers.",
             "website": "https://www.34sp.com"
         },
+        "3Q": {
+            "website": "https://3q.video"
+        },
         "4-Tell": {
             "cookies": {
                 "4tell": "",
@@ -112,6 +121,9 @@
             ],
             "description": "4Partners CMS is a cloud-based solution designed for ecommerce shops.",
             "website": "https://4partners.io/en/4p-cms"
+        },
+        "4w MarketPlace for Publishers": {
+            "website": "http://www.4wmarketplace.com/"
         },
         "51.LA": {
             "js": [
@@ -254,6 +266,12 @@
             "description": "ABP Framework is a complete infrastructure to create modern web applications by following the best practices and conventions of software development.",
             "website": "https://abp.io/"
         },
+        "ACTV8": {
+            "js": [
+                "a8mpparams"
+            ],
+            "website": "https://www.actv8me.com/"
+        },
         "AD EBiS": {
             "js": [
                 "ebis.c.pageurl"
@@ -291,6 +309,9 @@
             ],
             "description": "AI LOG is a marketing automation and fraud click prevention tool.",
             "website": "https://www.ai-log.biz/"
+        },
+        "AIDEM Technologies": {
+            "website": "https://www.aidem.com/"
         },
         "AIMEOS": {
             "js": [
@@ -1043,6 +1064,12 @@
             "description": "Addi is a service that allows users to make purchases and pay for them in installments over time.",
             "website": "https://co.addi.com/"
         },
+        "Addingwell SST": {
+            "html": [
+                "\\.js\\?aw='.*?\\+.*?dl;"
+            ],
+            "website": "https://www.addingwell.com"
+        },
         "Addsearch": {
             "js": [
                 "addsearchclient",
@@ -1176,6 +1203,9 @@
             },
             "description": "Adnegah is a digital marketing and internet advertising agency.",
             "website": "https://adnegah.net"
+        },
+        "Adnuntius": {
+            "website": "https://adnuntius.com"
         },
         "Adnymics": {
             "description": "Adnymics is a platform that enables personalization in ecommerce by tailoring content, recommendations, and experiences to individual users based on their behavior and preferences.",
@@ -1435,6 +1465,9 @@
             },
             "description": "Advin is a provider of ecommerce solutions and tailored web information systems for clients.",
             "website": "https://www.advin.cz"
+        },
+        "Advisible": {
+            "website": "https://www.advisible.com"
         },
         "Adwos CMS": {
             "html": [
@@ -2235,6 +2268,12 @@
         "AlternC": {
             "description": "AlternC is a set of software management on Linux shared hosting.",
             "website": "https://alternc.com"
+        },
+        "Altervista Platform": {
+            "html": [
+                "\u003ca href=\"http://www.altervista.org\"\u003ealtervista\u003c/a\u003e"
+            ],
+            "website": "https://altervista.com"
         },
         "Altis": {
             "js": [
@@ -20591,7 +20630,7 @@
         },
         "Imperva": {
             "headers": {
-                "x-cdn": "incapsula",
+                "x-cdn": "^imperva",
                 "x-iinfo": ""
             },
             "description": "Imperva is a cyber security software and services company for networking, data, and application security.",
@@ -54203,6 +54242,9 @@
             },
             "description": "youCMS is an enterprise content management system developed in Denmark, designed to support large-scale digital content organization and delivery.",
             "website": "https://www.youcms.eu"
+        },
+        "|related| Natív Hirdetés Kft": {
+            "website": "https://related.hu"
         }
     }
 }
