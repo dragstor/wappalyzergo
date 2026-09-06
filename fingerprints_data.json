@@ -8581,6 +8581,16 @@
             "description": "Clearout is a bulk email validation service designed to clean email lists and improve deliverability.",
             "website": "https://clearout.io"
         },
+        "Clearpay": {
+            "js": [
+                "clearpay",
+                "clearpay_js_snippet_version",
+                "clearpay_product",
+                "clearpay_shop_currency"
+            ],
+            "description": "Clearpay is the UK and EU brand of Afterpay, a buy-now-pay-later payment service that lets shoppers split purchases into interest-free instalments.",
+            "website": "https://www.clearpay.co.uk"
+        },
         "Clearstream": {
             "description": "Cloudstream is a communication platform that provides texting and email services for congregational outreach and engagement.",
             "website": "https://clearstream.io"
@@ -11106,6 +11116,14 @@
             },
             "description": "DanDomain Webshop is a Danish ecommerce platform provided by DanDomain, offering businesses the tools to create and manage their online stores.",
             "website": "https://dandomain.dk/webshop"
+        },
+        "DanDomain email": {
+            "description": "DanDomain email is the email hosting service provided by DanDomain, including webmail and Microsoft 365 plans.",
+            "website": "https://dandomain.dk/e-mail"
+        },
+        "DanDomain hosting": {
+            "description": "DanDomain hosting is a Danish web hosting and domain registration service, part of the team.blue group.",
+            "website": "https://dandomain.dk"
         },
         "Dancer": {
             "headers": {
@@ -13633,6 +13651,14 @@
             ],
             "description": "EmailJS is a cloud-based email delivery service that allows you to send emails directly from your client-side JavaScript code without the need for a server-side implementation.",
             "website": "https://www.emailjs.com"
+        },
+        "EmailOctopus": {
+            "js": [
+                "emailoctopus",
+                "emailoctopus"
+            ],
+            "description": "EmailOctopus is an email marketing and newsletter service whose signup forms are embedded on customer websites.",
+            "website": "https://emailoctopus.com"
         },
         "Emaileri": {
             "description": "Emaileri is a platform designed for email marketing and newsletter communications.",
@@ -18192,6 +18218,13 @@
             "description": "Google Hosted Libraries is a stable, reliable, high-speed, globally available content distribution network for the most popular, open-source JavaScript libraries.",
             "website": "https://developers.google.com/speed/libraries"
         },
+        "Google Looker Studio": {
+            "headers": {
+                "content-security-policy": "(?:lookerstudio|datastudio)\\.google\\.com"
+            },
+            "description": "Google Looker Studio (formerly Google Data Studio) is a free tool for creating and embedding interactive dashboards and reports.",
+            "website": "https://cloud.google.com/looker-studio"
+        },
         "Google Maps": {
             "js": [
                 "googlemap",
@@ -19010,6 +19043,14 @@
         "Hapana": {
             "description": "Hapana is a gym and fitness studio management platform designed to streamline operations.",
             "website": "https://www.hapana.com"
+        },
+        "Happierleads": {
+            "js": [
+                "happierleads",
+                "hlrunning"
+            ],
+            "description": "Happierleads is a B2B visitor-identification and lead-generation platform that reveals the companies visiting a website.",
+            "website": "https://www.happierleads.com"
         },
         "Happy Meal Prep": {
             "description": "Happy Meal Prep is a food order management system tailored for the food industry.",
@@ -20223,6 +20264,10 @@
         "Hyperlane": {
             "description": "Hyperlane is a hosting platform for WordPress and Craft CMS websites.",
             "website": "https://hyperlane.co"
+        },
+        "Hypernode": {
+            "description": "Hypernode is a managed ecommerce hosting platform by Byte (Netherlands); hosted domains use ns*.hypernode.com nameservers or point at *.hypernode.io via CNAME.",
+            "website": "https://www.hypernode.com"
         },
         "Hyperspeed": {
             "js": [
@@ -21812,6 +21857,13 @@
         "Job Board Fire": {
             "description": "JobBoardFire is a platform that provides software for managing job boards, connecting entrepreneurs and community members.",
             "website": "https://www.jobboardfire.com"
+        },
+        "Job Boardly": {
+            "cookies": {
+                "_job_boardly_session": ""
+            },
+            "description": "Job Boardly is a SaaS platform for creating and running hosted job boards without code.",
+            "website": "https://www.jobboardly.com"
         },
         "JobAdder": {
             "description": "JobAdder is a cloud-based recruitment management platform for staffing agencies and in-house corporate hiring teams.",
@@ -28435,6 +28487,10 @@
             "description": "Nativo is an advertising technology provider.",
             "website": "https://www.nativo.com"
         },
+        "Natro": {
+            "description": "Natro is a Turkish web hosting and domain registration provider; hosted domains use natrohost.com nameservers.",
+            "website": "https://www.natro.com"
+        },
         "Natural Intelligence": {
             "js": [
                 "naturalint_tag"
@@ -33026,6 +33082,10 @@
             "description": "Podpage is a podcast site builder that automatically creates professional websites for podcasts using RSS feeds.",
             "website": "https://www.podpage.com"
         },
+        "Podscribe": {
+            "description": "Podscribe is an IAB-certified podcast and audio ad measurement platform; podcast sites link to their transcripts on app.podscribe.ai and advertiser sites load its attribution tags from podscribe hosts.",
+            "website": "https://podscribe.com"
+        },
         "Podsights": {
             "description": "Podsights is attribution technology platform that brands and agencies use to measure and scale their podcast advertising",
             "website": "https://podsights.com/"
@@ -34709,6 +34769,12 @@
             "description": "Quantum Metric is a continuous product design platform that helps organizations build better products faster.",
             "website": "https://www.quantummetric.com/"
         },
+        "Quantyoo": {
+            "html": [
+                "https://quantyoo\\.de"
+            ],
+            "website": "https://quantyoo.de"
+        },
         "Quarto": {
             "js": [
                 "quartoopensearch",
@@ -35757,6 +35823,13 @@
             ],
             "description": "Recop is a recruitment optimization system from Japan.",
             "website": "https://recop.jp"
+        },
+        "Recova": {
+            "js": [
+                "recovaordertracking"
+            ],
+            "description": "Recova is an e-commerce conversion and cart-recovery tool that tracks shopper behavior to recover abandoned carts.",
+            "website": "https://recova.ai"
         },
         "RecoverMyCart": {
             "implies": [
@@ -38203,6 +38276,14 @@
             "description": "Scorpion is a marketing and technology provider.",
             "website": "https://www.scorpion.co/"
         },
+        "Scrapive": {
+            "js": [
+                "__scrapive_embed__",
+                "__scrapive_loaded__"
+            ],
+            "description": "Scrapive is an on-site and WhatsApp marketing platform that provides sales and conversion optimization solutions for ecommerce websites.",
+            "website": "https://scrapive.com"
+        },
         "Screenfull.js": {
             "description": "Simple wrapper for cross-browser usage of the JavaScript Fullscreen API.",
             "website": "https://sindresorhus.com/screenfull/"
@@ -39997,7 +40078,8 @@
         },
         "SimplyBook.me": {
             "js": [
-                "configsoinsimplypush"
+                "configsoinsimplypush",
+                "simplybookwidget"
             ],
             "description": "SimplyBook.me is an online appointment scheduling and booking software.",
             "website": "https://simplybook.me"
@@ -49007,6 +49089,10 @@
             "description": "Webcool CMS is a content management platform that automates workflows and enhances operational efficiency for organizations in the digital media and journalism industry.",
             "website": "https://webcool.vn"
         },
+        "Webempresa": {
+            "description": "Webempresa is a Spanish web hosting provider specialised in WordPress, WooCommerce and Joomla hosting.",
+            "website": "https://www.webempresa.com"
+        },
         "Webeo": {
             "js": [
                 "__webeoeventqueue",
@@ -49083,6 +49169,14 @@
             ],
             "description": "Webim is a platform offering live chat service for website visitors, facilitating real-time communication between businesses and their online audience.",
             "website": "https://webim.ru"
+        },
+        "WebinarGeek": {
+            "js": [
+                "geekembedloaded",
+                "geekembedstart"
+            ],
+            "description": "WebinarGeek is a Dutch webinar platform for hosting, embedding and marketing live and automated webinars.",
+            "website": "https://www.webinargeek.com"
         },
         "Webinaris": {
             "description": "Webinaris is a platform that automates customer acquisition, allowing businesses to attract more customers with significantly reduced effort.",
@@ -49920,6 +50014,9 @@
             "website": "https://woocommerce.com/products/stripe"
         },
         "WooCommerce Subscriptions": {
+            "html": [
+                "/plugins/woocommerce-subscriptions/vendor/woocommerce/subscriptions-core/build"
+            ],
             "implies": [
                 "WooCommerce"
             ],
@@ -50247,6 +50344,18 @@
             ],
             "description": "WysiBB very simple and functional open-source WYSIWYG BBCode editor based on jQuery.",
             "website": "https://wysibb.com"
+        },
+        "Wysistat": {
+            "cookies": {
+                "wysistat": ""
+            },
+            "js": [
+                "_wsq",
+                "_wysistat",
+                "wysistat"
+            ],
+            "description": "Wysistat is a French web analytics and audience measurement service.",
+            "website": "https://www.wysistat.net"
         },
         "X-Cart": {
             "js": [
@@ -51948,6 +52057,10 @@
             "headers": {
                 "content-security-policy": "\\.authorize\\.net\\s"
             },
+            "html": [
+                "authorizenet\\\\?/directpost_payment",
+                "js\\.authorize\\.net"
+            ],
             "description": "Authorize.net is a secure online payment gateway service that enables businesses to accept payments through various channels, such as ecommerce websites, mobile devices, and retail stores, providing a trusted platform for processing credit card and electronic cheque payments.",
             "website": "https://www.authorize.net"
         },
@@ -52119,6 +52232,16 @@
         "chroma.js": {
             "description": "chroma.js is a small-ish zero-dependency JavaScript library for all kinds of color conversions and color scales.",
             "website": "https://www.vis4.net/chromajs/"
+        },
+        "cituro": {
+            "js": [
+                "buildciturooptions",
+                "cituroloader",
+                "citurooptions",
+                "citurowidget"
+            ],
+            "description": "cituro is a German online appointment-scheduling tool whose booking widget can be embedded on customer websites.",
+            "website": "https://www.cituro.com"
         },
         "clickio": {
             "description": "Clickio Consent Tool collects and communicates consent both to IAB Framework vendors and to Google Ads products.",
