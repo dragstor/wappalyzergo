@@ -1135,6 +1135,10 @@
             "description": "Adloox is a European-born buy-side ad verification and insights company.",
             "website": "https://www.adloox.com"
         },
+        "Admatic": {
+            "description": "Admatic is a Turkish advertising and supply-side platform (SSP) that serves ads via header bidding and programmatic exchanges.",
+            "website": "https://www.admatic.com.tr"
+        },
         "AdminBuy": {
             "meta": {
                 "author": [
@@ -3497,6 +3501,13 @@
             "description": "Artplayer.js is an HTML5 video player that supports customizable UI, subtitles, and plugins, offering a flexible and modern video playback solution.",
             "website": "https://artplayer.org"
         },
+        "ArtsAI": {
+            "html": [
+                "arttrk\\.com/pixel"
+            ],
+            "description": "ArtsAI is an AI-driven advertising attribution and measurement platform that tracks campaign performance via its arttrk.com pixel.",
+            "website": "https://artsai.com"
+        },
         "Aruba.it": {
             "headers": {
                 "x-servername": "\\.aruba\\.it"
@@ -4406,7 +4417,7 @@
                 "bsmartpricelist"
             ],
             "description": "BSmart is an ecommerce platform, programmed by Microline.",
-            "website": "https://www.bsmart.co.il/?utm_source=wappalyzer\u0026utm_medium=referral"
+            "website": "https://www.bsmart.co.il/"
         },
         "BTOLEAD": {
             "description": "BTOLEAD is B2B lead generation software that enables businesses to identify and connect with potential customers.",
@@ -7559,7 +7570,7 @@
                 "google_tag_params.ecomm_pagetype"
             ],
             "description": "Websites that have a shopping cart or checkout page, either using a known ecommerce platform or a custom solution.",
-            "website": "https://www.wappalyzer.com/technologies/ecommerce/cart-functionality"
+            "website": "https://en.wikipedia.org/wiki/Shopping_cart_software"
         },
         "Cart.com": {
             "js": [
@@ -13831,6 +13842,17 @@
             "description": "Enalyzer is an online survey creation platform.",
             "website": "https://www.enalyzer.com"
         },
+        "Encharge": {
+            "cookies": {
+                "encheventsnippet": ""
+            },
+            "js": [
+                "enchargetracking",
+                "enctracking"
+            ],
+            "description": "Encharge is a marketing automation platform that sends behavior-based emails and tracks website visitor activity.",
+            "website": "https://encharge.io"
+        },
         "Endurance Page Cache": {
             "headers": {
                 "x-endurance-cache-level": ""
@@ -15554,6 +15576,13 @@
             "description": "FlexiFunnels is a platform for building high-converting sales funnels, generating leads, and selling products without requiring coding knowledge.",
             "website": "https://flexifunnels.com"
         },
+        "Flexmail": {
+            "headers": {
+                "content-security-policy": "(?:^|[^a-z])flexmail\\.eu"
+            },
+            "description": "Flexmail is a Belgian email marketing platform offering campaign management, embeddable forms and surveys.",
+            "website": "https://flexmail.be"
+        },
         "Flexmls": {
             "js": [
                 "flexmls_connect"
@@ -15834,6 +15863,13 @@
             },
             "description": "Fly is a platform for running full stack apps and databases.",
             "website": "https://fly.io"
+        },
+        "Flyads": {
+            "cookies": {
+                "flyid": ""
+            },
+            "description": "Flyads is an ad network serving from fly.codes and displayfly.com hosts and setting the flyid cookie.",
+            "website": "https://displayfly.com"
         },
         "Flybook": {
             "cookies": {
@@ -20662,8 +20698,15 @@
             "website": "https://facebook.github.io/immutable-js/"
         },
         "Impact": {
+            "cookies": {
+                "ir_gbd": "",
+                "ir_pi": ""
+            },
             "js": [
+                "impactdatalayer",
                 "impactradiusevent",
+                "ire",
+                "ire_o",
                 "irevent"
             ],
             "description": "Impact helps businesses contract and pay partners.",
@@ -20675,7 +20718,7 @@
         },
         "Imperva": {
             "headers": {
-                "x-cdn": "^imperva",
+                "x-cdn": "incapsula",
                 "x-iinfo": ""
             },
             "description": "Imperva is a cyber security software and services company for networking, data, and application security.",
@@ -24966,6 +25009,10 @@
             ],
             "description": "LotLinx is a provider of digital retailing and marketing technologies for the automotive industry.",
             "website": "https://lotlinx.com/"
+        },
+        "Lotame": {
+            "description": "Lotame is a data management platform (DMP) providing audience data collection, segmentation and identity solutions via its Crowd Control tag.",
+            "website": "https://www.lotame.com"
         },
         "LottieFiles": {
             "js": [
@@ -30630,7 +30677,7 @@
                 "x-oracle-dms-ecid": ""
             },
             "implies": [
-                "Oracle WebLogic Server"
+                "Weblogic Server"
             ],
             "description": "Oracle Dynamic Monitoring Service is a feature of Oracle WebLogic Server that provides real-time monitoring and diagnostic capabilities for Java applications running on the WebLogic Server.",
             "website": "https://oracle.com"
@@ -30667,13 +30714,6 @@
             "description": "Oracle Web Cache is a browser and content management server, which improves the performance of web sites.",
             "website": "https://oracle.com"
         },
-        "Oracle WebLogic Server": {
-            "implies": [
-                "Java"
-            ],
-            "description": "Oracle WebLogic Server is a Java-based application server that provides a platform for developing, deploying, and running enterprise-level Java applications.",
-            "website": "https://www.oracle.com/java/weblogic/"
-        },
         "Orama": {
             "description": "Orama is a platform offering full-text and vector search capabilities across 300 global locations.",
             "website": "https://oramasearch.com"
@@ -30685,6 +30725,24 @@
             ],
             "description": "Orankl is a provider email marketing and review services.",
             "website": "https://www.orankl.com"
+        },
+        "Orbit Commerce": {
+            "js": [
+                "orbitcommerce.platform"
+            ],
+            "headers": {
+                "x-powered-by": "^orbit commerce$"
+            },
+            "meta": {
+                "generator": [
+                    "^orbit commerce$"
+                ]
+            },
+            "implies": [
+                "Next.js"
+            ],
+            "description": "Orbit Commerce is a hosted ecommerce platform from the UK with a drag-and-drop page builder, themes, payments, B2B selling and marketing tools.",
+            "website": "https://orbitcommerce.net"
         },
         "Orbit Slider": {
             "description": "Orbit is a jQuery slider.",
@@ -31137,6 +31195,10 @@
             },
             "description": "PSPad is a feature-rich text editor designed for developers and professionals working with text, offering tools for coding, syntax highlighting, and project management.",
             "website": "https://www.pspad.com"
+        },
+        "PTisp": {
+            "description": "PTisp is a Portuguese hosting provider; hosted domains use mydnspt.net nameservers.",
+            "website": "https://ptisp.pt"
         },
         "PTminder": {
             "js": [
@@ -31929,6 +31991,13 @@
             },
             "description": "Peel is an open source shopping cart system.",
             "website": "https://www.peel.fr"
+        },
+        "Peer39": {
+            "html": [
+                "tags\\.peer39\\.com"
+            ],
+            "description": "Peer39 is a contextual page-quality and ad-intelligence service used pre-bid in programmatic advertising.",
+            "website": "https://www.peer39.com"
         },
         "PeerBoard": {
             "description": "PeerBoard is a plug-and-play community solution, which helps groups, clubs, startups, marketplaces and businesses create discussion forums.",
@@ -38979,6 +39048,10 @@
             "description": "Sezzle offers a buy-now-pay-later solution.",
             "website": "https://sezzle.com/"
         },
+        "Sfera Networks": {
+            "description": "Sfera Networks is an Italian hosting provider; hosted domains use sfera.net nameservers.",
+            "website": "https://www.sfera.net"
+        },
         "Shaka Player": {
             "js": [
                 "shaka.player.version"
@@ -39334,6 +39407,26 @@
         "ShopWired": {
             "description": "ShopWired is a UK based, fully hosted ecommerce platform that is focused on the UK market.",
             "website": "https://www.shopwired.co.uk"
+        },
+        "ShopWise": {
+            "js": [
+                "__shopwise__.name",
+                "__shopwise__.version"
+            ],
+            "headers": {
+                "x-powered-by": "shopwise"
+            },
+            "meta": {
+                "generator": [
+                    "shopwise"
+                ]
+            },
+            "implies": [
+                "Node.js",
+                "Nuxt.js"
+            ],
+            "description": "ShopWise is a multi-tenant e-commerce platform for building online stores and marketplaces, with a hosted admin, theme editor, dropshipping and a built-in checkout.",
+            "website": "https://shopwise.now"
         },
         "ShopX": {
             "description": "ShopX is an ecommerce platform built for hyperlocal businesses to sell online.",
@@ -43618,6 +43711,10 @@
             "description": "TG Track is a Telegram bot that analyzes subscription data upon registration.",
             "website": "https://tgtrack.ru"
         },
+        "THEADX": {
+            "description": "THEADX is a Turkish advertising network and ad exchange that serves ad tags and tracking pixels via theadx.com.",
+            "website": "https://www.theadx.com"
+        },
         "THG Ingenuity": {
             "description": "THG Ingenuity is completely unique in that it's both a peer-to-peer ecommerce retailer and a service provider to global cross-border commerce operations.",
             "website": "https://www.thgingenuity.com"
@@ -45897,6 +45994,10 @@
             ],
             "description": "Turf is a modular geospatial engine written in JavaScript.",
             "website": "https://turfjs.org/"
+        },
+        "Turhost": {
+            "description": "Turhost is a Turkish hosting provider; hosted domains use turhost.com nameservers.",
+            "website": "https://www.turhost.com"
         },
         "TuriTop": {
             "js": [
@@ -52492,6 +52593,15 @@
             "description": "eSputnik is a marketing automation service for ecommerce.",
             "website": "https://esputnik.com"
         },
+        "eStat Streaming": {
+            "js": [
+                "_estat_whap_loaded",
+                "_estat_whap_loaded_func",
+                "estat_pjs"
+            ],
+            "description": "eStat Streaming is Médiamétrie's streaming audio/video audience measurement tag used by French radio, TV and media websites.",
+            "website": "https://www.mediametrie.fr"
+        },
         "eSyndiCat": {
             "js": [
                 "esyndicat"
@@ -53987,6 +54097,16 @@
             "description": "stores.jp is an ecommerce platform which allows users to create their own ecommerce website.",
             "website": "https://stores.jp/ec/"
         },
+        "streaMonkey": {
+            "js": [
+                "streamplayer"
+            ],
+            "html": [
+                "\\.streamonkey\\.net/"
+            ],
+            "description": "streaMonkey is a German audio-streaming provider; sites embed its player from player.streamonkey.net and stream from frontend/edge streamonkey.net hosts.",
+            "website": "https://streamonkey.de"
+        },
         "styled-components": {
             "js": [
                 "styled"
@@ -53996,6 +54116,9 @@
             ],
             "description": "Styled components is a CSS-in-JS styling framework that uses tagged template literals in JavaScript.",
             "website": "https://styled-components.com"
+        },
+        "teachworks": {
+            "website": "https://teachworks.com"
         },
         "theCut": {
             "description": "theCut is a barber booking app that allows users to schedule appointments with barbers through a centralized digital platform.",
