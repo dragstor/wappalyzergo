@@ -14682,6 +14682,13 @@
             "description": "Fabric is a headless commerce platform helping direct-to-consumer and B2B brands utilize an ecommerce platform designed for their needs.",
             "website": "https://fabric.inc"
         },
+        "Face Age": {
+            "js": [
+                "faceage.prototype.render"
+            ],
+            "description": "Face Age is an AI-powered JavaScript SDK for facial skin analysis.",
+            "website": "https://getfaceage.com"
+        },
         "Facebook Ads": {
             "description": "Facebook Ads is an online advertising platform developed by Facebook.",
             "website": "https://www.facebook.com/business/ads"
@@ -18986,6 +18993,21 @@
         "HackerOne": {
             "description": "HackerOne is a vulnerability disclosure and bug bounty platform.",
             "website": "https://www.hackerone.com"
+        },
+        "Hackle": {
+            "js": [
+                "_hackle",
+                "_hacklecafe24app",
+                "hackle",
+                "hackle_preload_client",
+                "hackleclient",
+                "hackleplugin"
+            ],
+            "html": [
+                "hackle_sdk_key"
+            ],
+            "description": "Hackle is an experimentation and growth platform providing A/B testing, feature flags, product analytics, and behavioral messaging.",
+            "website": "https://hackle.io"
         },
         "Haddock": {
             "html": [
@@ -51217,6 +51239,18 @@
             ],
             "description": "YouCan Pay is a developed electronic payment platform that provides effective solutions for the payment gatways issue in ecommerce in Morocco.",
             "website": "https://youcanpay.com"
+        },
+        "YouDraw": {
+            "headers": {
+                "x-generator": "^youdraw"
+            },
+            "meta": {
+                "generator": [
+                    "^youdraw"
+                ]
+            },
+            "description": "YouDraw is a Brazilian ecommerce and print-on-demand platform with hosted storefronts (YD Store).",
+            "website": "https://youdraw.com.br"
         },
         "YouLead": {
             "js": [
