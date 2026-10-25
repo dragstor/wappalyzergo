@@ -3885,6 +3885,10 @@
             "description": "Audiohook specializes in programmatic audio advertising.",
             "website": "https://www.audiohook.com"
         },
+        "Audion": {
+            "description": "Audion is a digital audio advertising company; its Audion360 podcast player is embedded on publisher pages and loads from 360.audion.fm.",
+            "website": "https://www.audion.fm"
+        },
         "Auglio": {
             "js": [
                 "loadvirtooalscript",
@@ -4102,6 +4106,12 @@
             ],
             "description": "Avanser allow you to track every call and enable your business to make better-informed decisions based on your phone calls.",
             "website": "https://www.avanser.com"
+        },
+        "AvantisVideo": {
+            "js": [
+                "avantisjs"
+            ],
+            "website": "https://www.avantisvideo.com"
         },
         "Avasam": {
             "headers": {
@@ -5812,6 +5822,9 @@
         "Bontii": {
             "description": "Bontii is a subscription module facilitating integration between webshop and payment solutions.",
             "website": "https://bontii.dk"
+        },
+        "Book Like A Boss": {
+            "website": "https://www.booklikeaboss.com/"
         },
         "Book N Pay": {
             "description": "Book N Pay is a platform for booking and paying for various services and activities.",
@@ -8981,6 +8994,18 @@
                 "cs_secure_session": ""
             },
             "website": "https://cloudsuite.com"
+        },
+        "Cloudbac": {
+            "headers": {
+                "x-powered-by": "^cloudbac$"
+            },
+            "meta": {
+                "generator": [
+                    "^cloudbac$"
+                ]
+            },
+            "description": "Cloudbac is a SaaS website builder and hosting platform for businesses.",
+            "website": "https://www.cloudbac.com"
         },
         "Cloudbeds": {
             "js": [
@@ -40948,6 +40973,12 @@
             "description": "SmartEmailing is a Czech-based marketing solution that provides email marketing tools for creating, managing, and analyzing email campaigns to support customer communication and engagement.",
             "website": "https://www.smartemailing.cz"
         },
+        "SmartFrame": {
+            "html": [
+                "\u003clink rel=\"dns-prefetch\" href=\"//static\\.smartframe\\.io\""
+            ],
+            "website": "https://smartframe.io"
+        },
         "SmartFront": {
             "meta": {
                 "generator": [
@@ -41282,6 +41313,14 @@
             "description": "Socedo is a B2B demand generation system designed for social media, helping businesses identify, engage, and convert potential leads through targeted social interactions and automated workflows.",
             "website": "https://socedoagency.com"
         },
+        "SociableKIT": {
+            "html": [
+                "\u003ciframe[^\u003e]*src=[^\u003e]*widgets\\.sociablekit\\.com",
+                "\u003cimg[^\u003e]*src=[^\u003e]*images\\.sociablekit\\.com"
+            ],
+            "description": "Sociable kit",
+            "website": "https://www.sociablekit.com/"
+        },
         "Social Pinpoint": {
             "description": "Social Pinpoint is a comprehensive online platform that facilitates meaningful and accessible engagement opportunities that bring your community together.",
             "website": "https://www.socialpinpoint.com/"
@@ -41558,6 +41597,12 @@
             ],
             "description": "SonarQube is an open-source platform for the continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages.",
             "website": "https://www.sonarqube.org/"
+        },
+        "Sonares": {
+            "html": [
+                "\u003ciframe [^\u003e]*src=[^\u003e]*content\\.sonares\\.org/[^\"/]+"
+            ],
+            "website": "https://sonares.org/"
         },
         "Sonetel Chat": {
             "js": [
@@ -42161,6 +42206,9 @@
             ],
             "description": "Sprocket is an analytics and tracking system from Japan.",
             "website": "https://www.sprocket.bz"
+        },
+        "SproutStudio": {
+            "website": "https://getsproutstudio.com"
         },
         "Spruce": {
             "js": [
@@ -44221,6 +44269,9 @@
             "description": "Tauros Media is an ecommerce and omni-channel system provider offering integrated solutions for businesses to manage online and offline operations.",
             "website": "https://www.taurosmedia.com"
         },
+        "Tave": {
+            "website": "https://tave.com"
+        },
         "Tawk.to": {
             "cookies": {
                 "tawkconnectiontime": ""
@@ -44468,6 +44519,11 @@
             "website": "https://www.termed.de"
         },
         "Terminalfour": {
+            "html": [
+                "\u003c[^\u003e]+/terminalfour/page/(?:section|content|directedit)",
+                "\u003c[^\u003e]+t4edit-page",
+                "\u003c[^\u003e]+terminalfour\\.net/"
+            ],
             "meta": {
                 "generator": [
                     "terminalfour"
@@ -45580,6 +45636,12 @@
             "description": "Traek is a website insights, analytics and lead generation tool.",
             "website": "https://www.traek.io"
         },
+        "Traffective": {
+            "js": [
+                "traffectivelib"
+            ],
+            "website": "https://www.traffective.com"
+        },
         "TrafficGuard": {
             "js": [
                 "datatrafficguard"
@@ -46040,6 +46102,9 @@
         "TutorCruncher": {
             "description": "TutorCruncher is a tutoring management software.",
             "website": "https://tutorcruncher.com"
+        },
+        "Tutorbird": {
+            "website": "https://tutorbird.com"
         },
         "Twenty Eleven": {
             "description": "Twenty Eleven is the default WordPress theme for 2011.",
@@ -47233,6 +47298,9 @@
         "Vagaro": {
             "description": "Vagaro is a software platform that enables businesses to manage and book appointments online through a centralized scheduling system.",
             "website": "https://www.vagaro.com/pro/schedulicity"
+        },
+        "Valorsic Studio": {
+            "website": "https://valorsic.studio"
         },
         "Valuad": {
             "description": "Valuad is a platform that provides algorithm-based header bidding for publishers to optimize advertising revenue.",
@@ -51580,6 +51648,13 @@
             "description": "Zendesk Sunshine Conversations lets you share a single, continuous conversation with every team in your business. With a unified API and native connectors to popular business applications like Zendesk and Slack, everyone in your organization can get access to a single view of the customer conversation.",
             "website": "https://www.zendesk.com/platform/conversations"
         },
+        "Zendesk Widget": {
+            "js": [
+                "zeacloaded",
+                "zembed"
+            ],
+            "website": "https://developer.zendesk.com"
+        },
         "Zenfolio": {
             "js": [
                 "zenfolio"
@@ -51984,6 +52059,12 @@
             "description": "Zoom is a video conferencing and collaboration platform.",
             "website": "https://www.zoom.com"
         },
+        "Zoomd": {
+            "js": [
+                "zoomd"
+            ],
+            "website": "https://zoomd.com"
+        },
         "Zoominfo": {
             "description": "ZoomInfo provides actionable B2B contact and company information for sales and marketing teams.",
             "website": "https://www.zoominfo.com/"
@@ -52181,6 +52262,12 @@
             "description": "Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API.It works with CSS properties, SVG, DOM attributes and JavaScript Objects.",
             "website": "https://animejs.com/"
         },
+        "audienzz": {
+            "js": [
+                "audienzz"
+            ],
+            "website": "https://audienzz.ch"
+        },
         "augmented-ui": {
             "description": "augmented-ui is a UI framework inspired by cyberpunk and sci-fi.",
             "website": "https://augmented-ui.com"
@@ -52242,6 +52329,12 @@
             },
             "description": "bdok is a cloud-based platform which provides the capability to create and manage online stores with no technical knowledge.",
             "website": "https://bdok.ir"
+        },
+        "bet365": {
+            "html": [
+                "\u003ca [^\u003e]*href=['\"]http[s]?://www\\.bet365"
+            ],
+            "website": "https://www.bet365affiliates.com"
         },
         "biskoui": {
             "js": [
