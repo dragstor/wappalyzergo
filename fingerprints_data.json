@@ -527,6 +527,10 @@
             "description": "Abicart is an ecommerce platform developed by the Swedish company Abicart AB.",
             "website": "https://abicart.com/"
         },
+        "Abla": {
+            "description": "Abla is a French privacy-friendly, cookieless web analytics service.",
+            "website": "https://abla.io"
+        },
         "Able CDP": {
             "description": "Able CDP is a customer journey tracking system that monitors and analyzes user interactions across multiple touchpoints to provide insights into engagement and behavior.",
             "website": "https://www.ablecdp.com"
@@ -841,6 +845,10 @@
             "description": "Ad Lightning is an programmatic ads monitoring and audit service.",
             "website": "https://www.adlightning.com"
         },
+        "Ad-Shield": {
+            "description": "Ad-Shield is an adblock-recovery layer; publisher pages load its loader from html-load.com and talk to content-loader.com.",
+            "website": "https://www.ad-shield.io"
+        },
         "AdBridg": {
             "js": [
                 "adbridg.cmd"
@@ -869,6 +877,15 @@
         "AdGlare": {
             "description": "AdGlare is an ad serving solution designed for advertisers, publishers, and agencies.",
             "website": "https://www.adglare.com"
+        },
+        "AdGrid": {
+            "js": [
+                "adgridconfig",
+                "adgriddomainid",
+                "adgridfqdn"
+            ],
+            "description": "AdGrid is a header-bidding and ad management platform that helps publishers monetize their inventory.",
+            "website": "https://www.adgrid.io"
         },
         "AdInfinity": {
             "website": "https://adinfinity.com.au"
@@ -1284,6 +1301,9 @@
             },
             "description": "Adobe Dynamic Media Classic is a platform that enables customers to manage, enhance, publish, and deliver dynamic rich media content and personal experiences to consumers across all channels and devices, including web, print material, email campaigns, desktops, social, and mobile.",
             "website": "https://business.adobe.com/uk/products/experience-manager/scene7-login.html"
+        },
+        "Adobe Edge Web Fonts": {
+            "website": "https://edgewebfonts.adobe.com"
         },
         "Adobe Experience Manager": {
             "html": [
@@ -2066,6 +2086,9 @@
         "Ali Reviews": {
             "js": [
                 "alireviews_tags"
+            ],
+            "implies": [
+                "Shopify"
             ],
             "description": "Ali reviews is a shopify app to collect reviews from customers.",
             "website": "https://apps.shopify.com/ali-reviews"
@@ -4429,6 +4452,9 @@
             "description": "BSmart is an ecommerce platform, programmed by Microline.",
             "website": "https://www.bsmart.co.il/"
         },
+        "BSmartData": {
+            "website": "https://www.bsmartdata.com"
+        },
         "BTOLEAD": {
             "description": "BTOLEAD is B2B lead generation software that enables businesses to identify and connect with potential customers.",
             "website": "https://btolead.it"
@@ -4979,6 +5005,18 @@
         "BetterBot": {
             "description": "BetterBot is a conversational leasing tool tailored for real estate.",
             "website": "https://betterbot.com"
+        },
+        "BetterCMS": {
+            "headers": {
+                "x-bcms-edge": ""
+            },
+            "meta": {
+                "generator": [
+                    "^bettercms$"
+                ]
+            },
+            "description": "BetterCMS is a headless and hybrid CMS with a visual editor, structured content and site hosting, for websites built with any framework.",
+            "website": "https://bettercms.ai"
         },
         "BetterDocs": {
             "js": [
@@ -5798,6 +5836,9 @@
             "description": "BombBomb is a CRM platform that integrates lead capture and video messaging to manage customer relationships and enhance engagement throughout the sales process.",
             "website": "https://bombbomb.com"
         },
+        "Bombora": {
+            "website": "https://bombora.com"
+        },
         "Bonfire": {
             "cookies": {
                 "bf_session": ""
@@ -5901,6 +5942,9 @@
             "description": "Booked is a scheduling solution designed for organizational use.",
             "website": "https://www.bookedscheduler.com/"
         },
+        "Bookedin": {
+            "website": "https://bookedin.com/"
+        },
         "Bookeo": {
             "js": [
                 "bookeo_start",
@@ -5943,6 +5987,9 @@
             "description": "BookingKoala is a specialized SaaS for service businesses to automate scheduling, quotes, and billing. It features customizable booking forms and provider management tools, ideal for home services like cleaning or landscaping.",
             "website": "https://www.bookingkoala.com"
         },
+        "BookingPress": {
+            "website": "https://www.bookingpressplugin.com"
+        },
         "Bookingkit": {
             "js": [
                 "bookingkitapp"
@@ -5966,6 +6013,19 @@
             ],
             "description": "Bookly is a WordPress scheduling plugin that allows you to accept online reservations on your website and automate your booking system.",
             "website": "https://www.booking-wp-plugin.com"
+        },
+        "Booknetic": {
+            "html": [
+                "\u003ciframe [^\u003e]*src=[\"\\']https://[^/]+\\.booknetic\\.com/[^\"\\']*"
+            ],
+            "website": "https://booknetic.com/"
+        },
+        "Booksteam": {
+            "html": [
+                "\u003ca[^\u003e]*href=['\"]http://booksteam\\.com/[^'\"]*['\"][^\u003e]*\u003e.*?\u003c/a\u003e",
+                "\u003cscript[^\u003e]*src=['\"]//booksteam\\.com/booknowscript\\.ashx[^'\"]*['\"][^\u003e]*\u003e\u003c/script\u003e"
+            ],
+            "website": "https://booksteam.com/"
         },
         "Bookster": {
             "js": [
@@ -6415,6 +6475,13 @@
             "description": "Bricksite is a free website online tool where clients can create free accounts with various themes and features.",
             "website": "https://bricksite.io"
         },
+        "BridTV": {
+            "js": [
+                "bridcanrunads",
+                "bridchromeplugin"
+            ],
+            "website": "https://www.brid.tv"
+        },
         "BridgerPay": {
             "headers": {
                 "content-security-policy": "\\.bridgerpay\\.com"
@@ -6644,6 +6711,9 @@
         "BuddyPress": {
             "description": "BuddyPress is designed to allow schools, companies, sports teams, or any other niche community to start their own social network or communication tool.",
             "website": "https://buddypress.org"
+        },
+        "Buffer button and social widgets": {
+            "website": "https://buffer.com"
         },
         "BugHerd": {
             "js": [
@@ -7229,6 +7299,12 @@
             "description": "CalendarWiz is an online scheduling calendar.",
             "website": "https://www.calendarwiz.com/"
         },
+        "Calendesk": {
+            "js": [
+                "calendesk"
+            ],
+            "website": "https://calendesk.com"
+        },
         "Calendly": {
             "js": [
                 "calendly.closepopupwidget",
@@ -7557,6 +7633,9 @@
             "description": "CargoServer is a platform that enables secure data transfer.",
             "website": "https://cargoserver.ch"
         },
+        "Caroda": {
+            "website": "https://www.caroda.io"
+        },
         "Carrd": {
             "description": "Carrd is a platform for building simple, responsive, one-page sites.",
             "website": "https://carrd.co"
@@ -7697,6 +7776,9 @@
             "website": "https://cartum.io"
         },
         "Cartylabs": {
+            "implies": [
+                "Shopify"
+            ],
             "description": "Cartylabs is a Shopify application that provides a fast checkout experience and enables merchants to implement upsell and cross-sell features directly within the shopping cart.",
             "website": "https://cartylabs.com"
         },
@@ -7778,6 +7860,12 @@
         "CausalFunnel": {
             "description": "CausalFunnel is an AI platform that analyzes customer behavior to optimize business conversion rates.",
             "website": "https://www.causalfunnel.com"
+        },
+        "Cazamba": {
+            "html": [
+                "id=.ad-cazamba"
+            ],
+            "website": "https://cazamba.com"
         },
         "Cecil": {
             "meta": {
@@ -7964,6 +8052,9 @@
             ],
             "description": "Channel.io is an all-in-one business communication platform that helps businesses connect with customers.",
             "website": "https://channel.io"
+        },
+        "Channel99": {
+            "website": "https://www.channel99.com/"
         },
         "ChannelAdvisor": {
             "description": "ChannelAdvisor is a provider of cloud-based solutions to ecommerce companies.",
@@ -8210,6 +8301,9 @@
         "Chayns": {
             "description": "Chayns is a web platform that enables businesses and organizations to create customizable websites and apps, providing tools for digital communication, content management, and ecommerce integration.",
             "website": "https://chayns.site"
+        },
+        "CheckCherry": {
+            "website": "https://www.checkcherry.com"
         },
         "Checkfront": {
             "description": "Checkfront is a cloud-based booking management application and ecommerce platform.",
@@ -8652,6 +8746,9 @@
             "description": "Clever is an identity platform for education that helps schools and applications secure identities, manage data access, and support classroom learning.",
             "website": "https://www.clever.com"
         },
+        "Clever Advertising": {
+            "website": "https://cleveradvertising.com"
+        },
         "CleverData": {
             "description": "CleverData is a CDP platform that manages customer data and enables personalized user experiences through robust data processing capabilities.",
             "website": "https://cleverdata.ru"
@@ -8659,6 +8756,12 @@
         "CleverInsight": {
             "description": "CleverInsight is a tool that helps businesses measure customer satisfaction and design loyalty programs to improve customer retention.",
             "website": "https://clever-insight.com"
+        },
+        "CleverPush": {
+            "js": [
+                "cleverpush"
+            ],
+            "website": "https://cleverpush.com"
         },
         "CleverReach": {
             "description": "CleverReach is email marketing software featuring a web form designed for newsletter creation and distribution.",
@@ -8950,6 +9053,9 @@
         "Closure Library": {
             "description": "Closure Library is a JavaScript library developed by Google for building robust web applications, offering utilities for DOM manipulation, event handling, data structures, and more.",
             "website": "https://github.com/google/closure-library"
+        },
+        "ClouDNS": {
+            "website": "https://www.cloudns.net/"
         },
         "Cloud Guard": {
             "headers": {
@@ -9740,6 +9846,9 @@
             "website": "https://congressus.nl"
         },
         "Conjured": {
+            "implies": [
+                "Shopify"
+            ],
             "description": "Conjured provides Shopify brands with Shopify apps and custom development.",
             "website": "https://conjured.co"
         },
@@ -9889,6 +9998,13 @@
                 "Adobe ColdFusion"
             ],
             "website": "https://www.gocontentbox.org"
+        },
+        "ContentExchange": {
+            "html": [
+                "data-contentexchange-widget",
+                "href=\"https://tracker\\.contentexchange\\.me/"
+            ],
+            "website": "https://www.contentexchange.me"
         },
         "ContentGems": {
             "js": [
@@ -10072,6 +10188,9 @@
         "Convertiser": {
             "description": "Convertiser is a website monetization platform from Poland that helps publishers and advertisers optimize revenue through performance-based marketing solutions.",
             "website": "https://convertiser.com"
+        },
+        "Converto": {
+            "website": "https://www.converto.com"
         },
         "ConvertoBot": {
             "js": [
@@ -10468,6 +10587,9 @@
             "website": "https://covery.ai"
         },
         "Covet.pics": {
+            "implies": [
+                "Shopify"
+            ],
             "description": "Covet.pics is a customizable Shopify app for Instagram and Lookbook shoppable galleries.",
             "website": "https://covet.pics"
         },
@@ -14160,6 +14282,9 @@
             "description": "Erxes is a platform that provides tools for marketing, sales, and customer service management.",
             "website": "https://erxes.io"
         },
+        "Eskimi": {
+            "website": "https://business.eskimi.com"
+        },
         "EspoCRM": {
             "js": [
                 "espo"
@@ -15063,6 +15188,12 @@
             "description": "Fedora is a free open-source Linux-based operating system.",
             "website": "https://fedoraproject.org"
         },
+        "FeedAd": {
+            "js": [
+                "feedad"
+            ],
+            "website": "https://feedad.com"
+        },
         "FeedMagnet": {
             "description": "FeedMagnet is a platform that merges original content with curated third-party articles and social posts to deliver varied brand experiences.",
             "website": "https://www.feedmagnet.com"
@@ -15397,6 +15528,16 @@
             ],
             "description": "Firework is a video commerce solution for brands, retailers, and publishers, enhancing digital storefronts with interactive livestream and shoppable video features.",
             "website": "https://firework.com"
+        },
+        "First-id": {
+            "cookies": {
+                "firstid": ""
+            },
+            "js": [
+                "getfirstidinfos"
+            ],
+            "description": "First-id is a French first-party publisher ID solution; it sets the firstid cookie, loads its SDK from cdn.first-id.fr and calls the api-*.prod.first-id.fr endpoints.",
+            "website": "https://www.first-id.fr"
         },
         "FirstHive": {
             "description": "FirstHive is a full-stack customer data platform that enables consumer marketers and brands to take control of their first-party data from all sources.",
@@ -16493,6 +16634,12 @@
         "Freespee": {
             "website": "https://www.freespee.com"
         },
+        "Freestar": {
+            "js": [
+                "freestar"
+            ],
+            "website": "https://freestar.com"
+        },
         "Frequenceo": {
             "description": "Frequenceo is a fixed-rate postage service in France.",
             "website": "https://www.laposte.fr/entreprise/produit-entreprise/frequenceo"
@@ -17012,6 +17159,10 @@
             "description": "GTranslate app is a website translator which can translate any website to any language automatically.",
             "website": "https://apps.shopify.com/multilingual-shop-by-gtranslate"
         },
+        "GURU": {
+            "description": "GURU is a UK hosting provider; hosted domains use guru.net.uk nameservers.",
+            "website": "https://www.guru.co.uk"
+        },
         "GX WebManager": {
             "html": [
                 "\u003c!--\\s+powered by gx"
@@ -17054,6 +17205,9 @@
             ],
             "description": "Gambio is an all-in-one shopping cart solution for small to medium sized businesses.",
             "website": "https://gambio.de"
+        },
+        "GameAnalytics": {
+            "website": "https://gameanalytics.com"
         },
         "Gameball": {
             "js": [
@@ -17277,6 +17431,12 @@
         "Geo Targetly": {
             "description": "Geo Targetly is a website geo personalisation software.",
             "website": "https://geotargetly.com"
+        },
+        "GeoEdge": {
+            "js": [
+                "geoedgeapi"
+            ],
+            "website": "https://www.geoedge.com"
         },
         "Geoapify": {
             "description": "Geoapify is a platform that provides APIs and location services for building location-aware applications.",
@@ -19249,6 +19409,10 @@
             "description": "Hatena Blog is one of the traditional blog platforms in Japan.",
             "website": "https://hatenablog.com"
         },
+        "Have I Been Pwned": {
+            "description": "Have I Been Pwned is a data breach notification service that lets organisations monitor breached email addresses on domains they have verified.",
+            "website": "https://haveibeenpwned.com"
+        },
         "HawkSearch": {
             "js": [
                 "hawkcompare.addimage",
@@ -20566,6 +20730,10 @@
             "description": "Icordis CMS is a proprietary content management system developed by LCP nv for managing custom business and institutional websites.",
             "website": "https://www.lcp.be"
         },
+        "Ideal Media": {
+            "description": "Ideal Media is a content-recommendation advertising network (MGID family); publishers embed a site loader script from jsc.idealmedia.io.",
+            "website": "https://idealmedia.io"
+        },
         "Ideasoft": {
             "description": "Ideasoft is a Turkish software company providing web-based software solutions, software design, ecommerce solutions, and other services.",
             "website": "https://www.ideasoft.com.tr"
@@ -20765,7 +20933,7 @@
         },
         "Imperva": {
             "headers": {
-                "x-cdn": "incapsula",
+                "x-cdn": "^imperva",
                 "x-iinfo": ""
             },
             "description": "Imperva is a cyber security software and services company for networking, data, and application security.",
@@ -22756,6 +22924,9 @@
             "website": "https://kicksite.com"
         },
         "Kilatech": {
+            "implies": [
+                "Shopify"
+            ],
             "description": "Kilatech is a Shopify ecommerce application builder.",
             "website": "https://web.kilatechapps.com"
         },
@@ -23013,6 +23184,9 @@
         "Klip": {
             "js": [
                 "klip_app_data.atcpath"
+            ],
+            "implies": [
+                "Shopify"
             ],
             "description": "Klip is a tool for creating product page coupons designed to enhance customer engagement, boost conversions, and improve retention.",
             "website": "https://klipcoupons.com"
@@ -24080,6 +24254,10 @@
             ],
             "description": "Letro is a UGC and review tool for ecommerce platforms.",
             "website": "https://service.aainc.co.jp/product/letro/"
+        },
+        "LetsHost": {
+            "description": "LetsHost is an Irish hosting provider; hosted domains use dnsireland.com/.ie nameservers.",
+            "website": "https://letshost.ie"
         },
         "Levar": {
             "js": [
@@ -28004,7 +28182,7 @@
             "js": [
                 "motionpage_front.version"
             ],
-            "description": "Motion.page is a WordPress animation plugin utilizing GSAP and ScrollTrigger.",
+            "description": "Motion.page is a visual animation builder available as a WordPress plugin and as a desktop app.",
             "website": "https://motion.page"
         },
         "Motive": {
@@ -29805,6 +29983,10 @@
             "description": "Odoo is business management software which includes CRM, ecommerce, billing, accounting, manufacturing, warehouse, project management, and inventory management.",
             "website": "https://odoo.com"
         },
+        "Offerista": {
+            "description": "Offerista is a retail-marketing network; publisher pages embed its brochure widgets served from marktjagd.com and offerista.com.",
+            "website": "https://www.offerista.com"
+        },
         "Offline.js": {
             "js": [
                 "offline.confirmdown",
@@ -31491,6 +31673,9 @@
                 "pandectesgeolocation",
                 "pandectesrules",
                 "pandectessettings"
+            ],
+            "implies": [
+                "Shopify"
             ],
             "description": "Pandectes is a cloud-based data privacy compliance platform for Shopify stores, designed to support adherence to GDPR, CCPA/CPRA, VCDPA, APPI, PIPEDA, and PDPA regulations.",
             "website": "https://pandectes.io"
@@ -33780,6 +33965,9 @@
             "js": [
                 "initpdqscript"
             ],
+            "implies": [
+                "Shopify"
+            ],
             "description": "Pretty Damn Quick is a Shopify app for eCommerce brands to deliver personalized checkout experiences.",
             "website": "https://www.prettydamnquick.com/"
         },
@@ -35848,7 +36036,8 @@
                 "rebuyconfig"
             ],
             "implies": [
-                "Cart Functionality"
+                "Cart Functionality",
+                "Shopify"
             ],
             "description": "Rebuy offers personlisation solutions for ecommerce sites.",
             "website": "https://rebuyengine.com/"
@@ -39075,6 +39264,10 @@
             ],
             "description": "Setrow is a platform offering integrated digital marketing tools, including email and SMS marketing, push notifications, and recommendation engines, to optimize customer engagement and marketing strategies.",
             "website": "https://setrow.com"
+        },
+        "Setupad": {
+            "description": "Setupad is a header-bidding monetization platform; sites load its wrapper from stpd.cloud and bid via prebid.setupad.io.",
+            "website": "https://setupad.com"
         },
         "SevenRooms": {
             "js": [
@@ -43468,6 +43661,9 @@
             "website": "https://sweetanalytics.com"
         },
         "Sweet Upsell": {
+            "implies": [
+                "Shopify"
+            ],
             "description": "Upsell is a tool that boosts Shopify store profits by automating product upsells.",
             "website": "https://sweetupsell.com"
         },
@@ -44005,6 +44201,13 @@
             ],
             "description": "Taggbox is an UGC platform to collect, curate, manage rights, and publish user-generated content marketing campaigns across multiple channels.",
             "website": "https://taggbox.com/"
+        },
+        "Taggrs.io": {
+            "html": [
+                "\u003c!-- server side tagging by taggrs\\.io",
+                "\u003c!-- server side tracking by taggrs\\.io"
+            ],
+            "website": "https://taggrs.io"
         },
         "Tagnology": {
             "description": "Tagnology is a platform that transforms authentic content and meaningful interactions into valuable brand assets.",
@@ -44916,6 +45119,9 @@
             "website": "https://wordpress.org/plugins/learnpress"
         },
         "Thimatic": {
+            "implies": [
+                "Shopify"
+            ],
             "description": "Thimatic is a Shopify app for product reviews.",
             "website": "https://thimatic-apps.com/"
         },
@@ -44999,6 +45205,9 @@
             ],
             "description": "Three.js is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.",
             "website": "https://threejs.org"
+        },
+        "Threedium": {
+            "website": "https://threedium.co.uk"
         },
         "Threekit": {
             "js": [
@@ -45226,6 +45435,9 @@
         "Timesact": {
             "js": [
                 "timesactscriptnew"
+            ],
+            "implies": [
+                "Shopify"
             ],
             "description": "Timesact is a Shopify app that automates pre-order and back-in-stock notifications to streamline inventory and sales management.",
             "website": "https://timesact.com"
@@ -45653,6 +45865,9 @@
             "description": "TrafficStars is a self-served ad network and ad exchange that operates mainly in adult-related verticals.",
             "website": "https://trafficstars.com"
         },
+        "Trafft": {
+            "website": "https://trafft.com"
+        },
         "Trak": {
             "js": [
                 "trak.custom_event"
@@ -45939,6 +46154,18 @@
         "Trusted Shops": {
             "description": "Trusted Shops is a company that acts as a 3'rd party representing the common interests of both consumers and retailers.",
             "website": "https://www.trustedshops.co.uk"
+        },
+        "TrustedSite": {
+            "cookies": {
+                "trustedsite_tm_float_seen": "",
+                "trustedsite_visit": ""
+            },
+            "js": [
+                "trustedsite",
+                "trustedsiteinline"
+            ],
+            "description": "TrustedSite (formerly McAfee SECURE) is a website security certification and trustmark service that displays trust seals on certified sites.",
+            "website": "https://www.trustedsite.com"
         },
         "Trustify": {
             "js": [
@@ -47310,6 +47537,14 @@
             "description": "ValueCommerce is a pay-per-performance advertising affiliate marketing network.",
             "website": "https://www.valuecommerce.co.jp"
         },
+        "VanChat AI Agent": {
+            "js": [
+                "vanchat_api_url",
+                "vanchat_app_config"
+            ],
+            "description": "VanChat is an AI shopping chatbot for Shopify; stores embed its widget from vanchat.app and expose vanchat_* globals.",
+            "website": "https://vanchat.io"
+        },
         "Vanco Payment Solutions": {
             "description": "Vanco Payment Solutions provides credit card processing to nonprofits.",
             "website": "https://www.vancopayments.com"
@@ -47806,6 +48041,9 @@
             ],
             "description": "VideoPal is an avatar widget that functions as a help system, providing interactive assistance directly within the user interface.",
             "website": "https://www.videopal.io/go/"
+        },
+        "Videobot": {
+            "website": "https://www.videobot.com"
         },
         "Videoly": {
             "js": [
@@ -48380,7 +48618,7 @@
                 "vueroot"
             ],
             "html": [
-                "\u003c(?!svg)[^\u003e]+\\sdata-v(?:ue)?-"
+                "\u003c(?:[^s\u003c\u003e]|s[^v\u003c\u003e]|sv[^g\u003c\u003e])[^\u003c\u003e]*\\sdata-v(?:ue)?-|\u003c(?:s|sv)\\sdata-v(?:ue)?-"
             ],
             "css": [
                 "\\.vue-notification-group"
@@ -51880,6 +52118,9 @@
             "website": "https://zipchat.ai"
         },
         "Zipify OCU": {
+            "implies": [
+                "Shopify"
+            ],
             "description": "Zipify OCU allows you to add upsells and cross-sells to your checkout sequence.",
             "website": "https://zipify.com/apps/ocu/"
         },
@@ -52330,6 +52571,13 @@
             "description": "bdok is a cloud-based platform which provides the capability to create and manage online stores with no technical knowledge.",
             "website": "https://bdok.ir"
         },
+        "belboon": {
+            "js": [
+                "belboontag"
+            ],
+            "description": "belboon is a German affiliate marketing network that tracks conversions and traffic through its belboon container tags.",
+            "website": "https://www.belboon.com"
+        },
         "bet365": {
             "html": [
                 "\u003ca [^\u003e]*href=['\"]http[s]?://www\\.bet365"
@@ -52554,6 +52802,9 @@
                 "deepminer"
             ],
             "website": "https://github.com/deepwn/deepMiner"
+        },
+        "digidip": {
+            "website": "https://digidip.net"
         },
         "digi·access": {
             "description": "digi·access is a solution designed to improve web accessibility by helping organizations align digital content with WCAG 2.1 standards.",
@@ -52865,6 +53116,9 @@
             "description": "Full Featured Mobile HTML Framework For Building iOS \u0026 Android Apps.",
             "website": "https://framework7.io/"
         },
+        "fraud0": {
+            "website": "https://www.fraud0.com/"
+        },
         "freewebstore": {
             "headers": {
                 "content-security-policy": "\\.freewebstore\\.com",
@@ -52893,6 +53147,9 @@
         "getUBetter": {
             "description": "getUBetter is a healthcare platform that provides online access to mental health support services.",
             "website": "https://www.getubetter.com"
+        },
+        "gettimely": {
+            "website": "https://gettimely.com"
         },
         "git": {
             "meta": {
@@ -53513,6 +53770,10 @@
             ],
             "description": "Math.js a JavaScript library that provides a comprehensive set of mathematical functions and capabilities for performing complex calculations and operations in web applications.",
             "website": "https://mathjs.org"
+        },
+        "maxcluster": {
+            "description": "maxcluster is a German e-commerce hosting provider; hosted domains use maxcluster.net nameservers.",
+            "website": "https://maxcluster.de"
         },
         "mdBook": {
             "description": "mdBook is a utility to create modern online books from Markdown files.",
@@ -54319,6 +54580,12 @@
             "description": "true is a social proof platform that helps organizations increase conversions and credibility by displaying verified user interactions and trust signals on digital properties.",
             "website": "https://usetrue.com"
         },
+        "truvid": {
+            "js": [
+                "trvpbjschunk"
+            ],
+            "website": "https://www.truvid.com"
+        },
         "uKnowva": {
             "headers": {
                 "x-content-encoded-by": "uknowva ([\\d.]+)\\;version:\\1"
@@ -54521,6 +54788,15 @@
                 ]
             },
             "website": "https://webedition.de/en"
+        },
+        "wetter.com": {
+            "js": [
+                "_wcomdefault",
+                "_wcomops",
+                "_wcomrequest",
+                "_wcomwidget"
+            ],
+            "website": "https://www.wetter.com"
         },
         "wisyCMS": {
             "meta": {
