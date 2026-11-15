@@ -1892,10 +1892,6 @@
             "website": "https://www.akamai.com/us/en/products/security/bot-manager.jsp"
         },
         "Akamai Connected Cloud": {
-            "headers": {
-                "server": "^volt-adc$",
-                "x-volterra-location": ""
-            },
             "implies": [
                 "Akamai"
             ],
@@ -14749,8 +14745,12 @@
         },
         "F5 Distributed Cloud Services": {
             "headers": {
+                "server": "^volt-(?:adc|cdn)$",
                 "x-volterra-location": ""
             },
+            "implies": [
+                "Envoy"
+            ],
             "description": "F5 Distributed Cloud Services is a SaaS platform providing security, networking, and application management to deploy, secure, and operate applications in cloud-native environments.",
             "website": "https://www.f5.com/products/distributed-cloud-services"
         },
@@ -38532,6 +38532,9 @@
             "description": "Schedule Anyone is a business management system designed to streamline operations with a focus on automation.",
             "website": "https://www.scheduleanyone.com"
         },
+        "Schedulicity": {
+            "website": "https://www.schedulicity.com"
+        },
         "Schema App": {
             "js": [
                 "schema_highlighter"
@@ -39576,6 +39579,13 @@
             },
             "description": "ShopFactory is an all-in-one ecommerce platform that allows businesses to create and manage their online stores without the need for extensive technical expertise.",
             "website": "https://www.shopfactory.com"
+        },
+        "ShopFast": {
+            "meta": {
+                "sf:page-type": []
+            },
+            "description": "ShopFast is a hosted ecommerce platform for selling digital products, with customisable storefronts on shopfa.st subdomains or custom domains.",
+            "website": "https://shopfa.st"
         },
         "ShopGate": {
             "js": [
@@ -42868,6 +42878,15 @@
             ],
             "description": "Stenciljs is an open-source web component compiler that enables developers to create reusable, interoperable UI components that can work across different frameworks and platforms.",
             "website": "https://stenciljs.com"
+        },
+        "Stencil (hellostencil.com)": {
+            "meta": {
+                "generator": [
+                    "^stencil \\(hellostencil\\.com\\)$"
+                ]
+            },
+            "description": "Stencil is an AI app builder that creates, hosts and publishes web apps from a plain-language description.",
+            "website": "https://hellostencil.com"
         },
         "Stetic Analytics": {
             "js": [
@@ -49147,6 +49166,13 @@
         "Waste Connections": {
             "description": "Waste Connections is a provider of waste management solutions, offering trash collection, dumpster rental, and recycling services across the United States.",
             "website": "https://www.wasteconnections.com"
+        },
+        "Watch Music Web API": {
+            "js": [
+                "watchmusicwebapi.version"
+            ],
+            "description": "Watch Music Web API endpoints return JSON metadata about music artists, albums, tracks and playlists from the Watch Music catalogue, and give OAuth 2.0 access to listener libraries and playback.",
+            "website": "https://developers.watchmusic.app"
         },
         "WatchThem": {
             "description": "WatchThem is a behavioural tool that allows website owners to view video recordings of their visitors' journeys on their website.",
